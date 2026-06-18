@@ -1,0 +1,6180 @@
+[
+  {
+    "name": "Afghanistan",
+    "official_name": "Islamic Emirate of Afghanistan",
+    "alpha_2": "AF",
+    "alpha_3": "AFG",
+    "numeric_code": "004",
+    "calling_code": "+93",
+    "capital": "Kabul",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "AFN",
+      "name": "Afghan afghani",
+      "symbol": "؋"
+    },
+    "languages": {
+      "prs": "Dari",
+      "pus": "Pashto",
+      "tuk": "Turkmen"
+    },
+    "flag": "🇦🇫",
+    "telegram_emojis": {
+      "classic_id": "5913492040364068694",
+      "stylish_id": "5291937511591925566"
+    }
+  },
+  {
+    "name": "Åland Islands",
+    "official_name": "Åland Islands",
+    "alpha_2": "AX",
+    "alpha_3": "ALA",
+    "numeric_code": "248",
+    "calling_code": "+358",
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "swe": "Swedish"
+    },
+    "flag": "🇦🇽",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294077418917616055"
+    }
+  },
+  {
+    "name": "Albania",
+    "official_name": "Republic of Albania",
+    "alpha_2": "AL",
+    "alpha_3": "ALB",
+    "numeric_code": "008",
+    "calling_code": "+355",
+    "capital": "Tirana",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "ALL",
+      "name": "Albanian lek",
+      "symbol": "L"
+    },
+    "languages": {
+      "sqi": "Albanian"
+    },
+    "flag": "🇦🇱",
+    "telegram_emojis": {
+      "classic_id": "5911357458797826163",
+      "stylish_id": "5294202819077756005"
+    }
+  },
+  {
+    "name": "Algeria",
+    "official_name": "People's Democratic Republic of Algeria",
+    "alpha_2": "DZ",
+    "alpha_3": "DZA",
+    "numeric_code": "012",
+    "calling_code": "+213",
+    "capital": "Algiers",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "DZD",
+      "name": "Algerian dinar",
+      "symbol": "د.ج"
+    },
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "flag": "🇩🇿",
+    "telegram_emojis": {
+      "classic_id": "5913782968563800236",
+      "stylish_id": "5294048127240655242"
+    }
+  },
+  {
+    "name": "American Samoa",
+    "official_name": "American Samoa",
+    "alpha_2": "AS",
+    "alpha_3": "ASM",
+    "numeric_code": "016",
+    "calling_code": "+1-684",
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "flag": "🇦🇸",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5291994273879709721"
+    }
+  },
+  {
+    "name": "Andorra",
+    "official_name": "Principality of Andorra",
+    "alpha_2": "AD",
+    "alpha_3": "AND",
+    "numeric_code": "020",
+    "calling_code": "+376",
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "cat": "Catalan"
+    },
+    "flag": "🇦🇩",
+    "telegram_emojis": {
+      "classic_id": "5911314702398396902",
+      "stylish_id": "5294215205763434181"
+    }
+  },
+  {
+    "name": "Angola",
+    "official_name": "Republic of Angola",
+    "alpha_2": "AO",
+    "alpha_3": "AGO",
+    "numeric_code": "024",
+    "calling_code": "+244",
+    "capital": "Luanda",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "AOA",
+      "name": "Angolan kwanza",
+      "symbol": "Kz"
+    },
+    "languages": {
+      "por": "Portuguese"
+    },
+    "flag": "🇦🇴",
+    "telegram_emojis": {
+      "classic_id": "5913753316109586411",
+      "stylish_id": "5294516785482062829"
+    }
+  },
+  {
+    "name": "Anguilla",
+    "official_name": "Anguilla",
+    "alpha_2": "AI",
+    "alpha_3": "AIA",
+    "numeric_code": "660",
+    "calling_code": "+1-264",
+    "capital": "The Valley",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇦🇮",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5292186323342350940"
+    }
+  },
+  {
+    "name": "Antarctica",
+    "official_name": "Antarctica",
+    "alpha_2": "AQ",
+    "alpha_3": "ATA",
+    "numeric_code": "010",
+    "calling_code": "+672",
+    "capital": null,
+    "region": "Antarctic",
+    "subregion": null,
+    "currency": null,
+    "languages": null,
+    "flag": "🇦🇶",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "official_name": "Antigua and Barbuda",
+    "alpha_2": "AG",
+    "alpha_3": "ATG",
+    "numeric_code": "028",
+    "calling_code": "+1-268",
+    "capital": "St. John's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇦🇬",
+    "telegram_emojis": {
+      "classic_id": "5913389025573475085",
+      "stylish_id": "5294005972136647964"
+    }
+  },
+  {
+    "name": "Argentina",
+    "official_name": "Argentine Republic",
+    "alpha_2": "AR",
+    "alpha_3": "ARG",
+    "numeric_code": "032",
+    "calling_code": "+54",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "ARS",
+      "name": "Argentine peso",
+      "symbol": "$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇦🇷",
+    "telegram_emojis": {
+      "classic_id": "5913573356979884082",
+      "stylish_id": "5292208210495689627"
+    }
+  },
+  {
+    "name": "Armenia",
+    "official_name": "Republic of Armenia",
+    "alpha_2": "AM",
+    "alpha_3": "ARM",
+    "numeric_code": "051",
+    "calling_code": "+374",
+    "capital": "Yerevan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "AMD",
+      "name": "Armenian dram",
+      "symbol": "֏"
+    },
+    "languages": {
+      "hye": "Armenian"
+    },
+    "flag": "🇦🇲",
+    "telegram_emojis": {
+      "classic_id": "5913272455866093666",
+      "stylish_id": "5291978717508164018"
+    }
+  },
+  {
+    "name": "Aruba",
+    "official_name": "Aruba",
+    "alpha_2": "AW",
+    "alpha_3": "ABW",
+    "numeric_code": "533",
+    "calling_code": "+297",
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "AWG",
+      "name": "Aruban florin",
+      "symbol": "ƒ"
+    },
+    "languages": {
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "flag": "🇦🇼",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294007002928798927"
+    }
+  },
+  {
+    "name": "Australia",
+    "official_name": "Commonwealth of Australia",
+    "alpha_2": "AU",
+    "alpha_3": "AUS",
+    "numeric_code": "036",
+    "calling_code": "+61",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇦🇺",
+    "telegram_emojis": {
+      "classic_id": "5913632326880858455",
+      "stylish_id": "5294444247779399477"
+    }
+  },
+  {
+    "name": "Austria",
+    "official_name": "Republic of Austria",
+    "alpha_2": "AT",
+    "alpha_3": "AUT",
+    "numeric_code": "040",
+    "calling_code": "+43",
+    "capital": "Vienna",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "deu": "German"
+    },
+    "flag": "🇦🇹",
+    "telegram_emojis": {
+      "classic_id": "5911338831524664592",
+      "stylish_id": "5291975174160145850"
+    }
+  },
+  {
+    "name": "Azerbaijan",
+    "official_name": "Republic of Azerbaijan",
+    "alpha_2": "AZ",
+    "alpha_3": "AZE",
+    "numeric_code": "031",
+    "calling_code": "+994",
+    "capital": "Baku",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "AZN",
+      "name": "Azerbaijani manat",
+      "symbol": "₼"
+    },
+    "languages": {
+      "aze": "Azerbaijani"
+    },
+    "flag": "🇦🇿",
+    "telegram_emojis": {
+      "classic_id": "5911197578640233518",
+      "stylish_id": "5294323533428579078"
+    }
+  },
+  {
+    "name": "Bahamas",
+    "official_name": "Commonwealth of the Bahamas",
+    "alpha_2": "BS",
+    "alpha_3": "BHS",
+    "numeric_code": "044",
+    "calling_code": "+1-242",
+    "capital": "Nassau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "BSD",
+      "name": "Bahamian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇧🇸",
+    "telegram_emojis": {
+      "classic_id": "5911451643135660214",
+      "stylish_id": "5294031587321600012"
+    }
+  },
+  {
+    "name": "Bahrain",
+    "official_name": "Kingdom of Bahrain",
+    "alpha_2": "BH",
+    "alpha_3": "BHR",
+    "numeric_code": "048",
+    "calling_code": "+973",
+    "capital": "Manama",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "BHD",
+      "name": "Bahraini dinar",
+      "symbol": ".د.ب"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇧🇭",
+    "telegram_emojis": {
+      "classic_id": "5913581663446634403",
+      "stylish_id": "5294108398516720753"
+    }
+  },
+  {
+    "name": "Bangladesh",
+    "official_name": "People's Republic of Bangladesh",
+    "alpha_2": "BD",
+    "alpha_3": "BGD",
+    "numeric_code": "050",
+    "calling_code": "+880",
+    "capital": "Dhaka",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "BDT",
+      "name": "Bangladeshi taka",
+      "symbol": "৳"
+    },
+    "languages": {
+      "ben": "Bengali"
+    },
+    "flag": "🇧🇩",
+    "telegram_emojis": {
+      "classic_id": "5911365056594973179",
+      "stylish_id": "5291824687096027834"
+    }
+  },
+  {
+    "name": "Barbados",
+    "official_name": "Barbados",
+    "alpha_2": "BB",
+    "alpha_3": "BRB",
+    "numeric_code": "052",
+    "calling_code": "+1-246",
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "BBD",
+      "name": "Barbadian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇧🇧",
+    "telegram_emojis": {
+      "classic_id": "5911016996740272263",
+      "stylish_id": "5294526187165471742"
+    }
+  },
+  {
+    "name": "Belarus",
+    "official_name": "Republic of Belarus",
+    "alpha_2": "BY",
+    "alpha_3": "BLR",
+    "numeric_code": "112",
+    "calling_code": "+375",
+    "capital": "Minsk",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "BYN",
+      "name": "Belarusian ruble",
+      "symbol": "Br"
+    },
+    "languages": {
+      "bel": "Belarusian",
+      "rus": "Russian"
+    },
+    "flag": "🇧🇾",
+    "telegram_emojis": {
+      "classic_id": "5911011185649521599",
+      "stylish_id": "5294134426018536120"
+    }
+  },
+  {
+    "name": "Belgium",
+    "official_name": "Kingdom of Belgium",
+    "alpha_2": "BE",
+    "alpha_3": "BEL",
+    "numeric_code": "056",
+    "calling_code": "+32",
+    "capital": "Brussels",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "nld": "Dutch"
+    },
+    "flag": "🇧🇪",
+    "telegram_emojis": {
+      "classic_id": "5913529642802745141",
+      "stylish_id": "5291774466043435275"
+    }
+  },
+  {
+    "name": "Belize",
+    "official_name": "Belize",
+    "alpha_2": "BZ",
+    "alpha_3": "BLZ",
+    "numeric_code": "084",
+    "calling_code": "+501",
+    "capital": "Belmopan",
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": {
+      "code": "BZD",
+      "name": "Belize dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇧🇿",
+    "telegram_emojis": {
+      "classic_id": "5913355005137522807",
+      "stylish_id": "5294171848068584842"
+    }
+  },
+  {
+    "name": "Benin",
+    "official_name": "Republic of Benin",
+    "alpha_2": "BJ",
+    "alpha_3": "BEN",
+    "numeric_code": "204",
+    "calling_code": "+229",
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇧🇯",
+    "telegram_emojis": {
+      "classic_id": "5913735869952430547",
+      "stylish_id": "5293984969746566866"
+    }
+  },
+  {
+    "name": "Bermuda",
+    "official_name": "Bermuda",
+    "alpha_2": "BM",
+    "alpha_3": "BMU",
+    "numeric_code": "060",
+    "calling_code": "+1-441",
+    "capital": "Hamilton",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": {
+      "code": "BMD",
+      "name": "Bermudian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇧🇲",
+    "telegram_emojis": {
+      "classic_id": "5913680005312811090",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Bhutan",
+    "official_name": "Kingdom of Bhutan",
+    "alpha_2": "BT",
+    "alpha_3": "BTN",
+    "numeric_code": "064",
+    "calling_code": "+975",
+    "capital": "Thimphu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "BTN",
+      "name": "Bhutanese ngultrum",
+      "symbol": "Nu."
+    },
+    "languages": {
+      "dzo": "Dzongkha"
+    },
+    "flag": "🇧🇹",
+    "telegram_emojis": {
+      "classic_id": "5913236734623093021",
+      "stylish_id": "5294121983498277263"
+    }
+  },
+  {
+    "name": "Bolivia",
+    "official_name": "Plurinational State of Bolivia",
+    "alpha_2": "BO",
+    "alpha_3": "BOL",
+    "numeric_code": "068",
+    "calling_code": "+591",
+    "capital": "Sucre",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "BOB",
+      "name": "Bolivian boliviano",
+      "symbol": "Bs."
+    },
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "flag": "🇧🇴",
+    "telegram_emojis": {
+      "classic_id": "5913638795101606133",
+      "stylish_id": "5294201479047957700"
+    }
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "official_name": "Bonaire, Sint Eustatius and Saba",
+    "alpha_2": "BQ",
+    "alpha_3": "BES",
+    "numeric_code": "535",
+    "calling_code": "+599",
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "flag": "🇧🇶",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "official_name": "Bosnia and Herzegovina",
+    "alpha_2": "BA",
+    "alpha_3": "BIH",
+    "numeric_code": "070",
+    "calling_code": "+387",
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "BAM",
+      "name": "Bosnia and Herzegovina convertible mark",
+      "symbol": "KM"
+    },
+    "languages": {
+      "bos": "Bosnian",
+      "hrv": "Croatian",
+      "srp": "Serbian"
+    },
+    "flag": "🇧🇦",
+    "telegram_emojis": {
+      "classic_id": "5913700002680541032",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Botswana",
+    "official_name": "Republic of Botswana",
+    "alpha_2": "BW",
+    "alpha_3": "BWA",
+    "numeric_code": "072",
+    "calling_code": "+267",
+    "capital": "Gaborone",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "currency": {
+      "code": "BWP",
+      "name": "Botswana pula",
+      "symbol": "P"
+    },
+    "languages": {
+      "eng": "English",
+      "tsn": "Tswana"
+    },
+    "flag": "🇧🇼",
+    "telegram_emojis": {
+      "classic_id": "5911513782722499475",
+      "stylish_id": "5294026179957772585"
+    }
+  },
+  {
+    "name": "Bouvet Island",
+    "official_name": "Bouvet Island",
+    "alpha_2": "BV",
+    "alpha_3": "BVT",
+    "numeric_code": "074",
+    "calling_code": "+47",
+    "capital": null,
+    "region": "Antarctic",
+    "subregion": null,
+    "currency": {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr"
+    },
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "flag": "🇧🇻",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Brazil",
+    "official_name": "Federative Republic of Brazil",
+    "alpha_2": "BR",
+    "alpha_3": "BRA",
+    "numeric_code": "076",
+    "calling_code": "+55",
+    "capital": "Brasília",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "BRL",
+      "name": "Brazilian real",
+      "symbol": "R$"
+    },
+    "languages": {
+      "por": "Portuguese"
+    },
+    "flag": "🇧🇷",
+    "telegram_emojis": {
+      "classic_id": "5911148568768418614",
+      "stylish_id": "5291892229751723900"
+    }
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "official_name": "British Indian Ocean Territory",
+    "alpha_2": "IO",
+    "alpha_3": "IOT",
+    "numeric_code": "086",
+    "calling_code": "+246",
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇮🇴",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Brunei",
+    "official_name": "Brunei Darussalam",
+    "alpha_2": "BN",
+    "alpha_3": "BRN",
+    "numeric_code": "096",
+    "calling_code": "+673",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "BND",
+      "name": "Brunei dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "msa": "Malay"
+    },
+    "flag": "🇧🇳",
+    "telegram_emojis": {
+      "classic_id": "5911336409163109113",
+      "stylish_id": "5292098293692650297"
+    }
+  },
+  {
+    "name": "Bulgaria",
+    "official_name": "Republic of Bulgaria",
+    "alpha_2": "BG",
+    "alpha_3": "BGR",
+    "numeric_code": "100",
+    "calling_code": "+359",
+    "capital": "Sofia",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "BGN",
+      "name": "Bulgarian lev",
+      "symbol": "лв"
+    },
+    "languages": {
+      "bul": "Bulgarian"
+    },
+    "flag": "🇧🇬",
+    "telegram_emojis": {
+      "classic_id": "5911263776971168517",
+      "stylish_id": "5294308947719640437"
+    }
+  },
+  {
+    "name": "Burkina Faso",
+    "official_name": "Burkina Faso",
+    "alpha_2": "BF",
+    "alpha_3": "BFA",
+    "numeric_code": "854",
+    "calling_code": "+226",
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇧🇫",
+    "telegram_emojis": {
+      "classic_id": "5913407764515786948",
+      "stylish_id": "5294153164960848949"
+    }
+  },
+  {
+    "name": "Burundi",
+    "official_name": "Republic of Burundi",
+    "alpha_2": "BI",
+    "alpha_3": "BDI",
+    "numeric_code": "108",
+    "calling_code": "+257",
+    "capital": "Gitega",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "BIF",
+      "name": "Burundian franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French",
+      "run": "Kirundi"
+    },
+    "flag": "🇧🇮",
+    "telegram_emojis": {
+      "classic_id": "5913766441529642752",
+      "stylish_id": "5294051631933967760"
+    }
+  },
+  {
+    "name": "Cambodia",
+    "official_name": "Kingdom of Cambodia",
+    "alpha_2": "KH",
+    "alpha_3": "KHM",
+    "numeric_code": "116",
+    "calling_code": "+855",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "KHR",
+      "name": "Cambodian riel",
+      "symbol": "៛"
+    },
+    "languages": {
+      "khm": "Khmer"
+    },
+    "flag": "🇰🇭",
+    "telegram_emojis": {
+      "classic_id": "5913699998385573485",
+      "stylish_id": "5294225191562400452"
+    }
+  },
+  {
+    "name": "Cameroon",
+    "official_name": "Republic of Cameroon",
+    "alpha_2": "CM",
+    "alpha_3": "CMR",
+    "numeric_code": "120",
+    "calling_code": "+237",
+    "capital": "Yaoundé",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "flag": "🇨🇲",
+    "telegram_emojis": {
+      "classic_id": "5911172109484167745",
+      "stylish_id": "5291997306126626950"
+    }
+  },
+  {
+    "name": "Canada",
+    "official_name": "Canada",
+    "alpha_2": "CA",
+    "alpha_3": "CAN",
+    "numeric_code": "124",
+    "calling_code": "+1",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": {
+      "code": "CAD",
+      "name": "Canadian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "flag": "🇨🇦",
+    "telegram_emojis": {
+      "classic_id": "5913623736946265914",
+      "stylish_id": "5292290347450259214"
+    }
+  },
+  {
+    "name": "Cape Verde",
+    "official_name": "Republic of Cabo Verde",
+    "alpha_2": "CV",
+    "alpha_3": "CPV",
+    "numeric_code": "132",
+    "calling_code": "+238",
+    "capital": "Praia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "CVE",
+      "name": "Cape Verdean escudo",
+      "symbol": "Esc"
+    },
+    "languages": {
+      "por": "Portuguese"
+    },
+    "flag": "🇨🇻",
+    "telegram_emojis": {
+      "classic_id": "5913571501554012193",
+      "stylish_id": "5292203503211535593"
+    }
+  },
+  {
+    "name": "Cayman Islands",
+    "official_name": "Cayman Islands",
+    "alpha_2": "KY",
+    "alpha_3": "CYM",
+    "numeric_code": "136",
+    "calling_code": "+1-345",
+    "capital": "George Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "KYD",
+      "name": "Cayman Islands dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇰🇾",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Central African Republic",
+    "official_name": "Central African Republic",
+    "alpha_2": "CF",
+    "alpha_3": "CAF",
+    "numeric_code": "140",
+    "calling_code": "+236",
+    "capital": "Bangui",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French",
+      "sag": "Sango"
+    },
+    "flag": "🇨🇫",
+    "telegram_emojis": {
+      "classic_id": "5913443245240619222",
+      "stylish_id": "5294210571493724819"
+    }
+  },
+  {
+    "name": "Chad",
+    "official_name": "Republic of Chad",
+    "alpha_2": "TD",
+    "alpha_3": "TCD",
+    "numeric_code": "148",
+    "calling_code": "+235",
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "flag": "🇹🇩",
+    "telegram_emojis": {
+      "classic_id": "5913299849167507310",
+      "stylish_id": "5291780728105753403"
+    }
+  },
+  {
+    "name": "Chile",
+    "official_name": "Republic of Chile",
+    "alpha_2": "CL",
+    "alpha_3": "CHL",
+    "numeric_code": "152",
+    "calling_code": "+56",
+    "capital": "Santiago",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "CLP",
+      "name": "Chilean peso",
+      "symbol": "$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇨🇱",
+    "telegram_emojis": {
+      "classic_id": "5911470957603592832",
+      "stylish_id": "5294231037012888049"
+    }
+  },
+  {
+    "name": "China",
+    "official_name": "People's Republic of China",
+    "alpha_2": "CN",
+    "alpha_3": "CHN",
+    "numeric_code": "156",
+    "calling_code": "+86",
+    "capital": "Beijing",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "CNY",
+      "name": "Renminbi",
+      "symbol": "¥"
+    },
+    "languages": {
+      "zho": "Chinese"
+    },
+    "flag": "🇨🇳",
+    "telegram_emojis": {
+      "classic_id": "5913779335021466780",
+      "stylish_id": "5294068833277990704"
+    }
+  },
+  {
+    "name": "Christmas Island",
+    "official_name": "Territory of Christmas Island",
+    "alpha_2": "CX",
+    "alpha_3": "CXR",
+    "numeric_code": "162",
+    "calling_code": "+61",
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇨🇽",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "official_name": "Territory of Cocos (Keeling) Islands",
+    "alpha_2": "CC",
+    "alpha_3": "CCK",
+    "numeric_code": "166",
+    "calling_code": "+61",
+    "capital": "West Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇨🇨",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Colombia",
+    "official_name": "Republic of Colombia",
+    "alpha_2": "CO",
+    "alpha_3": "COL",
+    "numeric_code": "170",
+    "calling_code": "+57",
+    "capital": "Bogotá",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "COP",
+      "name": "Colombian peso",
+      "symbol": "$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇨🇴",
+    "telegram_emojis": {
+      "classic_id": "5913773060074246009",
+      "stylish_id": "5294010206974397371"
+    }
+  },
+  {
+    "name": "Comoros",
+    "official_name": "Union of the Comoros",
+    "alpha_2": "KM",
+    "alpha_3": "COM",
+    "numeric_code": "174",
+    "calling_code": "+269",
+    "capital": "Moroni",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "KMF",
+      "name": "Comorian franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French",
+      "zdj": "Comorian"
+    },
+    "flag": "🇰🇲",
+    "telegram_emojis": {
+      "classic_id": "5911338582416560604",
+      "stylish_id": "5294351381996521508"
+    }
+  },
+  {
+    "name": "Congo (Republic of the Congo)",
+    "official_name": "Republic of the Congo",
+    "alpha_2": "CG",
+    "alpha_3": "COG",
+    "numeric_code": "178",
+    "calling_code": "+242",
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French",
+      "kon": "Kongo",
+      "lin": "Lingala"
+    },
+    "flag": "🇨🇬",
+    "telegram_emojis": {
+      "classic_id": "5911338788574990168",
+      "stylish_id": "5294035229453865597"
+    }
+  },
+  {
+    "name": "Congo (Democratic Republic of the)",
+    "official_name": "Democratic Republic of the Congo",
+    "alpha_2": "CD",
+    "alpha_3": "COD",
+    "numeric_code": "180",
+    "calling_code": "+243",
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "CDF",
+      "name": "Congolese franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French",
+      "kon": "Kongo",
+      "lin": "Lingala",
+      "lua": "Luba-Lulua",
+      "swa": "Swahili"
+    },
+    "flag": "🇨🇩",
+    "telegram_emojis": {
+      "classic_id": "5913770362834783827",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Cook Islands",
+    "official_name": "Cook Islands",
+    "alpha_2": "CK",
+    "alpha_3": "COK",
+    "numeric_code": "184",
+    "calling_code": "+682",
+    "capital": "Avarua",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇨🇰",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5292098684534675100"
+    }
+  },
+  {
+    "name": "Costa Rica",
+    "official_name": "Republic of Costa Rica",
+    "alpha_2": "CR",
+    "alpha_3": "CRI",
+    "numeric_code": "188",
+    "calling_code": "+506",
+    "capital": "San José",
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": {
+      "code": "CRC",
+      "name": "Costa Rican colón",
+      "symbol": "₡"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇨🇷",
+    "telegram_emojis": {
+      "classic_id": "5911261745451635030",
+      "stylish_id": "5292063805105263554"
+    }
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "official_name": "Republic of Côte d'Ivoire",
+    "alpha_2": "CI",
+    "alpha_3": "CIV",
+    "numeric_code": "384",
+    "calling_code": "+225",
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇨🇮",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5293991322003200135"
+    }
+  },
+  {
+    "name": "Croatia",
+    "official_name": "Republic of Croatia",
+    "alpha_2": "HR",
+    "alpha_3": "HRV",
+    "numeric_code": "191",
+    "calling_code": "+385",
+    "capital": "Zagreb",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "hrv": "Croatian"
+    },
+    "flag": "🇭🇷",
+    "telegram_emojis": {
+      "classic_id": "5913692684056269311",
+      "stylish_id": "5291999676948569127"
+    }
+  },
+  {
+    "name": "Cuba",
+    "official_name": "Republic of Cuba",
+    "alpha_2": "CU",
+    "alpha_3": "CUB",
+    "numeric_code": "192",
+    "calling_code": "+53",
+    "capital": "Havana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "CUP",
+      "name": "Cuban peso",
+      "symbol": "$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇨🇺",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5291963947115631526"
+    }
+  },
+  {
+    "name": "Curaçao",
+    "official_name": "Country of Curaçao",
+    "alpha_2": "CW",
+    "alpha_3": "CUW",
+    "numeric_code": "531",
+    "calling_code": "+599-9",
+    "capital": "Willemstad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "ƒ"
+    },
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch",
+      "pap": "Papiamento"
+    },
+    "flag": "🇨🇼",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Cyprus",
+    "official_name": "Republic of Cyprus",
+    "alpha_2": "CY",
+    "alpha_3": "CYP",
+    "numeric_code": "196",
+    "calling_code": "+357",
+    "capital": "Nicosia",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "ell": "Greek",
+      "tur": "Turkish"
+    },
+    "flag": "🇨🇾",
+    "telegram_emojis": {
+      "classic_id": "5911023550860366409",
+      "stylish_id": "5294062721539526918"
+    }
+  },
+  {
+    "name": "Czechia",
+    "official_name": "Republic of Czechia",
+    "alpha_2": "CZ",
+    "alpha_3": "CZE",
+    "numeric_code": "203",
+    "calling_code": "+420",
+    "capital": "Prague",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "CZK",
+      "name": "Czech koruna",
+      "symbol": "Kč"
+    },
+    "languages": {
+      "ces": "Czech",
+      "slk": "Slovak"
+    },
+    "flag": "🇨🇿",
+    "telegram_emojis": {
+      "classic_id": "5911198691036764307",
+      "stylish_id": "5294242852467923382"
+    }
+  },
+  {
+    "name": "Denmark",
+    "official_name": "Kingdom of Denmark",
+    "alpha_2": "DK",
+    "alpha_3": "DNK",
+    "numeric_code": "208",
+    "calling_code": "+45",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    },
+    "languages": {
+      "dan": "Danish"
+    },
+    "flag": "🇩🇰",
+    "telegram_emojis": {
+      "classic_id": "5911206009661034712",
+      "stylish_id": "5294531860817268837"
+    }
+  },
+  {
+    "name": "Djibouti",
+    "official_name": "Republic of Djibouti",
+    "alpha_2": "DJ",
+    "alpha_3": "DJI",
+    "numeric_code": "262",
+    "calling_code": "+253",
+    "capital": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "DJF",
+      "name": "Djiboutian franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "flag": "🇩🇯",
+    "telegram_emojis": {
+      "classic_id": "5911407709915190157",
+      "stylish_id": "5294127214768468283"
+    }
+  },
+  {
+    "name": "Dominica",
+    "official_name": "Commonwealth of Dominica",
+    "alpha_2": "DM",
+    "alpha_3": "DMA",
+    "numeric_code": "212",
+    "calling_code": "+1-767",
+    "capital": "Roseau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇩🇲",
+    "telegram_emojis": {
+      "classic_id": "5911377121158107430",
+      "stylish_id": "5294485513825178032"
+    }
+  },
+  {
+    "name": "Dominican Republic",
+    "official_name": "Dominican Republic",
+    "alpha_2": "DO",
+    "alpha_3": "DOM",
+    "numeric_code": "214",
+    "calling_code": "+1-809",
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "DOP",
+      "name": "Dominican peso",
+      "symbol": "$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇩🇴",
+    "telegram_emojis": {
+      "classic_id": "5911152099231536123",
+      "stylish_id": "5294522197140857947"
+    }
+  },
+  {
+    "name": "Ecuador",
+    "official_name": "Republic of Ecuador",
+    "alpha_2": "EC",
+    "alpha_3": "ECU",
+    "numeric_code": "218",
+    "calling_code": "+593",
+    "capital": "Quito",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇪🇨",
+    "telegram_emojis": {
+      "classic_id": "5911273865849347408",
+      "stylish_id": "5292083733753517221"
+    }
+  },
+  {
+    "name": "Egypt",
+    "official_name": "Arab Republic of Egypt",
+    "alpha_2": "EG",
+    "alpha_3": "EGY",
+    "numeric_code": "818",
+    "calling_code": "+20",
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "EGP",
+      "name": "Egyptian pound",
+      "symbol": "E£"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇪🇬",
+    "telegram_emojis": {
+      "classic_id": "5913694831539916769",
+      "stylish_id": "5293992082212409502"
+    }
+  },
+  {
+    "name": "El Salvador",
+    "official_name": "Republic of El Salvador",
+    "alpha_2": "SV",
+    "alpha_3": "SLV",
+    "numeric_code": "222",
+    "calling_code": "+503",
+    "capital": "San Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": {
+      "code": "SVC",
+      "name": "Salvadoran colón",
+      "symbol": "₡"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇸🇻",
+    "telegram_emojis": {
+      "classic_id": "5913238624408703010",
+      "stylish_id": "5294337307388695687"
+    }
+  },
+  {
+    "name": "England",
+    "official_name": "England (Constituent Country)",
+    "alpha_2": "GB-ENG",
+    "alpha_3": "ENG",
+    "numeric_code": null,
+    "calling_code": "+44",
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "telegram_emojis": {
+      "classic_id": "5913475719488344315",
+      "stylish_id": "5294410107084365278"
+    }
+  },
+  {
+    "name": "Equatorial Guinea",
+    "official_name": "Republic of Equatorial Guinea",
+    "alpha_2": "GQ",
+    "alpha_3": "GNQ",
+    "numeric_code": "226",
+    "calling_code": "+240",
+    "capital": "Malabo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French",
+      "por": "Portuguese",
+      "spa": "Spanish"
+    },
+    "flag": "🇬🇶",
+    "telegram_emojis": {
+      "classic_id": "5911306279967529251",
+      "stylish_id": "5292170045416297012"
+    }
+  },
+  {
+    "name": "Eritrea",
+    "official_name": "State of Eritrea",
+    "alpha_2": "ER",
+    "alpha_3": "ERI",
+    "numeric_code": "232",
+    "calling_code": "+291",
+    "capital": "Asmara",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "ERN",
+      "name": "Eritrean nakfa",
+      "symbol": "Nfk"
+    },
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English",
+      "tir": "Tigrinya"
+    },
+    "flag": "🇪🇷",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5291922054004625949"
+    }
+  },
+  {
+    "name": "Estonia",
+    "official_name": "Republic of Estonia",
+    "alpha_2": "EE",
+    "alpha_3": "EST",
+    "numeric_code": "233",
+    "calling_code": "+372",
+    "capital": "Tallinn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "est": "Estonian"
+    },
+    "flag": "🇪🇪",
+    "telegram_emojis": {
+      "classic_id": "5910986042910969906",
+      "stylish_id": "5291951143818123103"
+    }
+  },
+  {
+    "name": "Ethiopia",
+    "official_name": "Federal Democratic Republic of Ethiopia",
+    "alpha_2": "ET",
+    "alpha_3": "ETH",
+    "numeric_code": "231",
+    "calling_code": "+251",
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "ETB",
+      "name": "Ethiopian birr",
+      "symbol": "Br"
+    },
+    "languages": {
+      "amh": "Amharic"
+    },
+    "flag": "🇪🇹",
+    "telegram_emojis": {
+      "classic_id": "5911078333168227043",
+      "stylish_id": "5292245976143124155"
+    }
+  },
+  {
+    "name": "European Union",
+    "official_name": "European Union (International Organization)",
+    "alpha_2": "EU",
+    "alpha_3": "EU",
+    "numeric_code": null,
+    "calling_code": null,
+    "capital": "Brussels",
+    "region": "Europe",
+    "subregion": null,
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "deu": "German",
+      "eng": "English",
+      "fra": "French"
+    },
+    "flag": "🇪🇺",
+    "telegram_emojis": {
+      "classic_id": "5911106310585193018",
+      "stylish_id": "5291992809295861098"
+    }
+  },
+  {
+    "name": "Falkland Islands",
+    "official_name": "Falkland Islands",
+    "alpha_2": "FK",
+    "alpha_3": "FLK",
+    "numeric_code": "238",
+    "calling_code": "+500",
+    "capital": "Stanley",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "FKP",
+      "name": "Falkland Islands pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇫🇰",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Faroe Islands",
+    "official_name": "Faroe Islands",
+    "alpha_2": "FO",
+    "alpha_3": "FRO",
+    "numeric_code": "234",
+    "calling_code": "+298",
+    "capital": "Tórshavn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    },
+    "languages": {
+      "fao": "Faroese"
+    },
+    "flag": "🇫🇴",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Fiji",
+    "official_name": "Republic of Fiji",
+    "alpha_2": "FJ",
+    "alpha_3": "FJI",
+    "numeric_code": "242",
+    "calling_code": "+679",
+    "capital": "Suva",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currency": {
+      "code": "FJD",
+      "name": "Fijian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "fij": "Fijian",
+      "hif": "Fiji Hindi"
+    },
+    "flag": "🇫🇯",
+    "telegram_emojis": {
+      "classic_id": "5911393832875856716",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Finland",
+    "official_name": "Republic of Finland",
+    "alpha_2": "FI",
+    "alpha_3": "FIN",
+    "numeric_code": "246",
+    "calling_code": "+358",
+    "capital": "Helsinki",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fin": "Finnish",
+      "swe": "Swedish"
+    },
+    "flag": "🇫🇮",
+    "telegram_emojis": {
+      "classic_id": "5911041344909873378",
+      "stylish_id": "5294049961191690629"
+    }
+  },
+  {
+    "name": "France",
+    "official_name": "French Republic",
+    "alpha_2": "FR",
+    "alpha_3": "FRA",
+    "numeric_code": "250",
+    "calling_code": "+33",
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇫🇷",
+    "telegram_emojis": {
+      "classic_id": "5913605586414473124",
+      "stylish_id": "5291817660529533837"
+    }
+  },
+  {
+    "name": "French Guiana",
+    "official_name": "Guiana",
+    "alpha_2": "GF",
+    "alpha_3": "GUF",
+    "numeric_code": "254",
+    "calling_code": "+594",
+    "capital": "Cayenne",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇬🇫",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "French Polynesia",
+    "official_name": "French Polynesia",
+    "alpha_2": "PF",
+    "alpha_3": "PYF",
+    "numeric_code": "258",
+    "calling_code": "+689",
+    "capital": "Papeete",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇵🇫",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "French Southern Territories",
+    "official_name": "Territory of the French Southern and Antarctic Lands",
+    "alpha_2": "TF",
+    "alpha_3": "ATF",
+    "numeric_code": "260",
+    "calling_code": "+262",
+    "capital": "Port-aux-Français",
+    "region": "Antarctic",
+    "subregion": null,
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇹🇫",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Gabon",
+    "official_name": "Gabonese Republic",
+    "alpha_2": "GA",
+    "alpha_3": "GAB",
+    "numeric_code": "266",
+    "calling_code": "+241",
+    "capital": "Libreville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "XAF",
+      "name": "Central African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇬🇦",
+    "telegram_emojis": {
+      "classic_id": "5911037896051137264",
+      "stylish_id": "5294321325815389139"
+    }
+  },
+  {
+    "name": "Gambia",
+    "official_name": "Republic of the Gambia",
+    "alpha_2": "GM",
+    "alpha_3": "GMB",
+    "numeric_code": "270",
+    "calling_code": "+220",
+    "capital": "Banjul",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "GMD",
+      "name": "Gambian dalasi",
+      "symbol": "D"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇬🇲",
+    "telegram_emojis": {
+      "classic_id": "5913657267755945883",
+      "stylish_id": "5294399820637688352"
+    }
+  },
+  {
+    "name": "Georgia",
+    "official_name": "Georgia",
+    "alpha_2": "GE",
+    "alpha_3": "GEO",
+    "numeric_code": "268",
+    "calling_code": "+995",
+    "capital": "Tbilisi",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "GEL",
+      "name": "Georgian lari",
+      "symbol": "₾"
+    },
+    "languages": {
+      "kat": "Georgian"
+    },
+    "flag": "🇬🇪",
+    "telegram_emojis": {
+      "classic_id": "5913434771270144023",
+      "stylish_id": "5294349389131697267"
+    }
+  },
+  {
+    "name": "Germany",
+    "official_name": "Federal Republic of Germany",
+    "alpha_2": "DE",
+    "alpha_3": "DEU",
+    "numeric_code": "276",
+    "calling_code": "+49",
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "deu": "German"
+    },
+    "flag": "🇩🇪",
+    "telegram_emojis": {
+      "classic_id": "5911096835887337583",
+      "stylish_id": "5292013274815028523"
+    }
+  },
+  {
+    "name": "Ghana",
+    "official_name": "Republic of Ghana",
+    "alpha_2": "GH",
+    "alpha_3": "GHA",
+    "numeric_code": "288",
+    "calling_code": "+233",
+    "capital": "Accra",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "GHS",
+      "name": "Ghanaian cedi",
+      "symbol": "₵"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇬🇭",
+    "telegram_emojis": {
+      "classic_id": "5913391155877252952",
+      "stylish_id": "5294347396266873249"
+    }
+  },
+  {
+    "name": "Gibraltar",
+    "official_name": "Gibraltar",
+    "alpha_2": "GI",
+    "alpha_3": "GIB",
+    "numeric_code": "292",
+    "calling_code": "+350",
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "GIP",
+      "name": "Gibraltar pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇬🇮",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5292055799286224027"
+    }
+  },
+  {
+    "name": "Greece",
+    "official_name": "Hellenic Republic",
+    "alpha_2": "GR",
+    "alpha_3": "GRC",
+    "numeric_code": "300",
+    "calling_code": "+30",
+    "capital": "Athens",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "ell": "Greek"
+    },
+    "flag": "🇬🇷",
+    "telegram_emojis": {
+      "classic_id": "5911210399117611448",
+      "stylish_id": "5291948395039054764"
+    }
+  },
+  {
+    "name": "Greenland",
+    "official_name": "Kalaallit Nunaat",
+    "alpha_2": "GL",
+    "alpha_3": "GRL",
+    "numeric_code": "304",
+    "calling_code": "+299",
+    "capital": "Nuuk",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": {
+      "code": "DKK",
+      "name": "Danish krone",
+      "symbol": "kr"
+    },
+    "languages": {
+      "kal": "Greenlandic"
+    },
+    "flag": "🇬🇱",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5292014752283774878"
+    }
+  },
+  {
+    "name": "Grenada",
+    "official_name": "Grenada",
+    "alpha_2": "GD",
+    "alpha_3": "GRD",
+    "numeric_code": "308",
+    "calling_code": "+1-473",
+    "capital": "St. George's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇬🇩",
+    "telegram_emojis": {
+      "classic_id": "5913228063084121946",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Guadeloupe",
+    "official_name": "Guadeloupe",
+    "alpha_2": "GP",
+    "alpha_3": "GLP",
+    "numeric_code": "312",
+    "calling_code": "+590",
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇬🇵",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Guam",
+    "official_name": "Guam",
+    "alpha_2": "GU",
+    "alpha_3": "GUM",
+    "numeric_code": "316",
+    "calling_code": "+1-671",
+    "capital": "Hagåtña",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "cha": "Chamorro",
+      "eng": "English"
+    },
+    "flag": "🇬🇺",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Guatemala",
+    "official_name": "Republic of Guatemala",
+    "alpha_2": "GT",
+    "alpha_3": "GTM",
+    "numeric_code": "320",
+    "calling_code": "+502",
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": {
+      "code": "GTQ",
+      "name": "Guatemalan quetzal",
+      "symbol": "Q"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇬🇹",
+    "telegram_emojis": {
+      "classic_id": "5913324858762072330",
+      "stylish_id": "5294336633078831209"
+    }
+  },
+  {
+    "name": "Guernsey",
+    "official_name": "Bailiwick of Guernsey",
+    "alpha_2": "GG",
+    "alpha_3": "GGY",
+    "numeric_code": "831",
+    "calling_code": "+44",
+    "capital": "St. Peter Port",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "flag": "🇬🇬",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Guinea",
+    "official_name": "Republic of Guinea",
+    "alpha_2": "GN",
+    "alpha_3": "GIN",
+    "numeric_code": "324",
+    "calling_code": "+224",
+    "capital": "Conakry",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "GNF",
+      "name": "Guinean franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇬🇳",
+    "telegram_emojis": {
+      "classic_id": "5913471858312744319",
+      "stylish_id": "5291892096607739008"
+    }
+  },
+  {
+    "name": "Guinea-Bissau",
+    "official_name": "Republic of Guinea-Bissau",
+    "alpha_2": "GW",
+    "alpha_3": "GNB",
+    "numeric_code": "624",
+    "calling_code": "+245",
+    "capital": "Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "por": "Portuguese",
+      "pov": "Upper Guinea Creole"
+    },
+    "flag": "🇬🇼",
+    "telegram_emojis": {
+      "classic_id": "5911398694778836149",
+      "stylish_id": "5294409819321550432"
+    }
+  },
+  {
+    "name": "Guyana",
+    "official_name": "Co-operative Republic of Guyana",
+    "alpha_2": "GY",
+    "alpha_3": "GUY",
+    "numeric_code": "328",
+    "calling_code": "+592",
+    "capital": "Georgetown",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "GYD",
+      "name": "Guyanese dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇬🇾",
+    "telegram_emojis": {
+      "classic_id": "5913579412883771480",
+      "stylish_id": "5292062692708736193"
+    }
+  },
+  {
+    "name": "Haiti",
+    "official_name": "Republic of Haiti",
+    "alpha_2": "HT",
+    "alpha_3": "HTI",
+    "numeric_code": "332",
+    "calling_code": "+509",
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "HTG",
+      "name": "Haitian gourde",
+      "symbol": "G"
+    },
+    "languages": {
+      "fra": "French",
+      "hat": "Haitian Creole"
+    },
+    "flag": "🇭🇹",
+    "telegram_emojis": {
+      "classic_id": "5913459789454643194",
+      "stylish_id": "5292045130587462814"
+    }
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "official_name": "Heard Island and McDonald Islands",
+    "alpha_2": "HM",
+    "alpha_3": "HMD",
+    "numeric_code": "334",
+    "calling_code": "+672",
+    "capital": null,
+    "region": "Antarctic",
+    "subregion": null,
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇭🇲",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Honduras",
+    "official_name": "Republic of Honduras",
+    "alpha_2": "HN",
+    "alpha_3": "HND",
+    "numeric_code": "340",
+    "calling_code": "+504",
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": {
+      "code": "HNL",
+      "name": "Honduran lempira",
+      "symbol": "L"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇭🇳",
+    "telegram_emojis": {
+      "classic_id": "5911406889576436289",
+      "stylish_id": "5291901034434682297"
+    }
+  },
+  {
+    "name": "Hong Kong",
+    "official_name": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "alpha_2": "HK",
+    "alpha_3": "HKG",
+    "numeric_code": "344",
+    "calling_code": "+852",
+    "capital": "City of Victoria",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "HKD",
+      "name": "Hong Kong dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "zho": "Chinese"
+    },
+    "flag": "🇭🇰",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5292166459118606932"
+    }
+  },
+  {
+    "name": "Hungary",
+    "official_name": "Hungary",
+    "alpha_2": "HU",
+    "alpha_3": "HUN",
+    "numeric_code": "348",
+    "calling_code": "+36",
+    "capital": "Budapest",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "HUF",
+      "name": "Hungarian forint",
+      "symbol": "Ft"
+    },
+    "languages": {
+      "hun": "Hungarian"
+    },
+    "flag": "🇭🇺",
+    "telegram_emojis": {
+      "classic_id": "5913767635530551104",
+      "stylish_id": "5294229581018975260"
+    }
+  },
+  {
+    "name": "Iceland",
+    "official_name": "Iceland",
+    "alpha_2": "IS",
+    "alpha_3": "ISL",
+    "numeric_code": "352",
+    "calling_code": "+354",
+    "capital": "Reykjavík",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "ISK",
+      "name": "Icelandic króna",
+      "symbol": "kr"
+    },
+    "languages": {
+      "isl": "Icelandic"
+    },
+    "flag": "🇮🇸",
+    "telegram_emojis": {
+      "classic_id": "5911047899029967246",
+      "stylish_id": "5294354358408859664"
+    }
+  },
+  {
+    "name": "India",
+    "official_name": "Republic of India",
+    "alpha_2": "IN",
+    "alpha_3": "IND",
+    "numeric_code": "356",
+    "calling_code": "+91",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "INR",
+      "name": "Indian rupee",
+      "symbol": "₹"
+    },
+    "languages": {
+      "eng": "English",
+      "hin": "Hindi"
+    },
+    "flag": "🇮🇳",
+    "telegram_emojis": {
+      "classic_id": "5913754823643107921",
+      "stylish_id": "5291933173674957761"
+    }
+  },
+  {
+    "name": "Indonesia",
+    "official_name": "Republic of Indonesia",
+    "alpha_2": "ID",
+    "alpha_3": "IDN",
+    "numeric_code": "360",
+    "calling_code": "+62",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "IDR",
+      "name": "Indonesian rupiah",
+      "symbol": "Rp"
+    },
+    "languages": {
+      "ind": "Indonesian"
+    },
+    "flag": "🇮🇩",
+    "telegram_emojis": {
+      "classic_id": "5913479361620611038",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Iran",
+    "official_name": "Islamic Republic of Iran",
+    "alpha_2": "IR",
+    "alpha_3": "IRN",
+    "numeric_code": "364",
+    "calling_code": "+98",
+    "capital": "Tehran",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "IRR",
+      "name": "Iranian rial",
+      "symbol": "﷼"
+    },
+    "languages": {
+      "fas": "Persian"
+    },
+    "flag": "🇮🇷",
+    "telegram_emojis": {
+      "classic_id": "5911308891307643032",
+      "stylish_id": "5294220170745630736"
+    }
+  },
+  {
+    "name": "Iraq",
+    "official_name": "Republic of Iraq",
+    "alpha_2": "IQ",
+    "alpha_3": "IRQ",
+    "numeric_code": "368",
+    "calling_code": "+964",
+    "capital": "Baghdad",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "IQD",
+      "name": "Iraqi dinar",
+      "symbol": "ع.د"
+    },
+    "languages": {
+      "ara": "Arabic",
+      "ckb": "Sorani Kurdish"
+    },
+    "flag": "🇮🇶",
+    "telegram_emojis": {
+      "classic_id": "5911382442622587735",
+      "stylish_id": "5294325010897327367"
+    }
+  },
+  {
+    "name": "Ireland",
+    "official_name": "Republic of Ireland",
+    "alpha_2": "IE",
+    "alpha_3": "IRL",
+    "numeric_code": "372",
+    "calling_code": "+353",
+    "capital": "Dublin",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "eng": "English",
+      "gle": "Irish"
+    },
+    "flag": "🇮🇪",
+    "telegram_emojis": {
+      "classic_id": "5913427959452012488",
+      "stylish_id": "5294471971793293647"
+    }
+  },
+  {
+    "name": "Isle of Man",
+    "official_name": "Isle of Man",
+    "alpha_2": "IM",
+    "alpha_3": "IMN",
+    "numeric_code": "833",
+    "calling_code": "+44",
+    "capital": "Douglas",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English",
+      "glv": "Manx"
+    },
+    "flag": "🇮🇲",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294318478252070646"
+    }
+  },
+  {
+    "name": "Israel",
+    "official_name": "State of Israel",
+    "alpha_2": "IL",
+    "alpha_3": "ISR",
+    "numeric_code": "376",
+    "calling_code": "+972",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "ILS",
+      "name": "Israeli new shekel",
+      "symbol": "₪"
+    },
+    "languages": {
+      "heb": "Hebrew"
+    },
+    "flag": "🇮🇱",
+    "telegram_emojis": {
+      "classic_id": "5911471936856134692",
+      "stylish_id": "5294069056616289553"
+    }
+  },
+  {
+    "name": "Italy",
+    "official_name": "Italian Republic",
+    "alpha_2": "IT",
+    "alpha_3": "ITA",
+    "numeric_code": "380",
+    "calling_code": "+39",
+    "capital": "Rome",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "ita": "Italian"
+    },
+    "flag": "🇮🇹",
+    "telegram_emojis": {
+      "classic_id": "5913688444923547525",
+      "stylish_id": "5291826830284709120"
+    }
+  },
+  {
+    "name": "Jamaica",
+    "official_name": "Jamaica",
+    "alpha_2": "JM",
+    "alpha_3": "JAM",
+    "numeric_code": "388",
+    "calling_code": "+1-876",
+    "capital": "Kingston",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "JMD",
+      "name": "Jamaican dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇯🇲",
+    "telegram_emojis": {
+      "classic_id": "5913232280742006526",
+      "stylish_id": "5294505107465982830"
+    }
+  },
+  {
+    "name": "Japan",
+    "official_name": "Japan",
+    "alpha_2": "JP",
+    "alpha_3": "JPN",
+    "numeric_code": "392",
+    "calling_code": "+81",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "JPY",
+      "name": "Japanese yen",
+      "symbol": "¥"
+    },
+    "languages": {
+      "jpn": "Japanese"
+    },
+    "flag": "🇯🇵",
+    "telegram_emojis": {
+      "classic_id": "5913293711659241040",
+      "stylish_id": "5291799063321139445"
+    }
+  },
+  {
+    "name": "Jersey",
+    "official_name": "Bailiwick of Jersey",
+    "alpha_2": "JE",
+    "alpha_3": "JEY",
+    "numeric_code": "832",
+    "calling_code": "+44",
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French"
+    },
+    "flag": "🇯🇪",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5291950280529697493"
+    }
+  },
+  {
+    "name": "Jordan",
+    "official_name": "Hashemite Kingdom of Jordan",
+    "alpha_2": "JO",
+    "alpha_3": "JOR",
+    "numeric_code": "400",
+    "calling_code": "+962",
+    "capital": "Amman",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "JOD",
+      "name": "Jordanian dinar",
+      "symbol": "د.ا"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇯🇴",
+    "telegram_emojis": {
+      "classic_id": "5913234136167878475",
+      "stylish_id": "5291988613112814801"
+    }
+  },
+  {
+    "name": "Kazakhstan",
+    "official_name": "Republic of Kazakhstan",
+    "alpha_2": "KZ",
+    "alpha_3": "KAZ",
+    "numeric_code": "398",
+    "calling_code": "+7",
+    "capital": "Astana",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "currency": {
+      "code": "KZT",
+      "name": "Kazakhstani tenge",
+      "symbol": "₸"
+    },
+    "languages": {
+      "kaz": "Kazakh",
+      "rus": "Russian"
+    },
+    "flag": "🇰🇿",
+    "telegram_emojis": {
+      "classic_id": "5913724621433082323",
+      "stylish_id": "5294227175837290463"
+    }
+  },
+  {
+    "name": "Kenya",
+    "official_name": "Republic of Kenya",
+    "alpha_2": "KE",
+    "alpha_3": "KEN",
+    "numeric_code": "404",
+    "calling_code": "+254",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "KES",
+      "name": "Kenyan shilling",
+      "symbol": "Sh"
+    },
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "flag": "🇰🇪",
+    "telegram_emojis": {
+      "classic_id": "5911154710571651231",
+      "stylish_id": "5292111852904416801"
+    }
+  },
+  {
+    "name": "Kiribati",
+    "official_name": "Independent and Sovereign Republic of Kiribati",
+    "alpha_2": "KI",
+    "alpha_3": "KIR",
+    "numeric_code": "296",
+    "calling_code": "+686",
+    "capital": "Tarawa",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "gil": "Gilbertese"
+    },
+    "flag": "🇰🇮",
+    "telegram_emojis": {
+      "classic_id": "5911294443037660118",
+      "stylish_id": "5294538934628405146"
+    }
+  },
+  {
+    "name": "Korea (Democratic People's Republic of)",
+    "official_name": "Democratic People's Republic of Korea",
+    "alpha_2": "KP",
+    "alpha_3": "PRK",
+    "numeric_code": "408",
+    "calling_code": "+850",
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "KPW",
+      "name": "North Korean won",
+      "symbol": "₩"
+    },
+    "languages": {
+      "kor": "Korean"
+    },
+    "flag": "🇰🇵",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294193812531333564"
+    }
+  },
+  {
+    "name": "Korea (Republic of)",
+    "official_name": "Republic of Korea",
+    "alpha_2": "KR",
+    "alpha_3": "KOR",
+    "numeric_code": "410",
+    "calling_code": "+82",
+    "capital": "Seoul",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "KRW",
+      "name": "South Korean won",
+      "symbol": "₩"
+    },
+    "languages": {
+      "kor": "Korean"
+    },
+    "flag": "🇰🇷",
+    "telegram_emojis": {
+      "classic_id": "5913371673905598425",
+      "stylish_id": "5294408281723262763"
+    }
+  },
+  {
+    "name": "Kosovo",
+    "official_name": "Republic of Kosovo",
+    "alpha_2": "XK",
+    "alpha_3": "XKX",
+    "numeric_code": "383",
+    "calling_code": "+383",
+    "capital": "Pristina",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "sqi": "Albanian",
+      "srp": "Serbian"
+    },
+    "flag": "🇽🇰",
+    "telegram_emojis": {
+      "classic_id": "5911433681582429010",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Kuwait",
+    "official_name": "State of Kuwait",
+    "alpha_2": "KW",
+    "alpha_3": "KWT",
+    "numeric_code": "414",
+    "calling_code": "+965",
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "KWD",
+      "name": "Kuwaiti dinar",
+      "symbol": "د.ك"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇰🇼",
+    "telegram_emojis": {
+      "classic_id": "5913290705182134003",
+      "stylish_id": "5292066437920218075"
+    }
+  },
+  {
+    "name": "Kyrgyzstan",
+    "official_name": "Kyrgyz Republic",
+    "alpha_2": "KG",
+    "alpha_3": "KGZ",
+    "numeric_code": "417",
+    "calling_code": "+996",
+    "capital": "Bishkek",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "currency": {
+      "code": "KGS",
+      "name": "Kyrgyzstani som",
+      "symbol": "лв"
+    },
+    "languages": {
+      "kir": "Kyrgyz",
+      "rus": "Russian"
+    },
+    "flag": "🇰🇬",
+    "telegram_emojis": {
+      "classic_id": "5911202161370337549",
+      "stylish_id": "5292091954320922577"
+    }
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "official_name": "Lao People's Democratic Republic",
+    "alpha_2": "LA",
+    "alpha_3": "LAO",
+    "numeric_code": "418",
+    "calling_code": "+856",
+    "capital": "Vientiane",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "LAK",
+      "name": "Lao kip",
+      "symbol": "₭"
+    },
+    "languages": {
+      "lao": "Lao"
+    },
+    "flag": "🇱🇦",
+    "telegram_emojis": {
+      "classic_id": "5913718526874489279",
+      "stylish_id": "5291981530711746037"
+    }
+  },
+  {
+    "name": "Latvia",
+    "official_name": "Republic of Latvia",
+    "alpha_2": "LV",
+    "alpha_3": "LVA",
+    "numeric_code": "428",
+    "calling_code": "+371",
+    "capital": "Riga",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "lav": "Latvian"
+    },
+    "flag": "🇱🇻",
+    "telegram_emojis": {
+      "classic_id": "5913738489882480243",
+      "stylish_id": "5292236016113966127"
+    }
+  },
+  {
+    "name": "Lebanon",
+    "official_name": "Lebanese Republic",
+    "alpha_2": "LB",
+    "alpha_3": "LBN",
+    "numeric_code": "422",
+    "calling_code": "+961",
+    "capital": "Beirut",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "LBP",
+      "name": "Lebanese pound",
+      "symbol": "ل.ل"
+    },
+    "languages": {
+      "ara": "Arabic",
+      "fra": "French"
+    },
+    "flag": "🇱🇧",
+    "telegram_emojis": {
+      "classic_id": "5911504273664905447",
+      "stylish_id": "5294193108156699621"
+    }
+  },
+  {
+    "name": "Lesotho",
+    "official_name": "Kingdom of Lesotho",
+    "alpha_2": "LS",
+    "alpha_3": "LSO",
+    "numeric_code": "426",
+    "calling_code": "+266",
+    "capital": "Maseru",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "currency": {
+      "code": "LSL",
+      "name": "Lesotho loti",
+      "symbol": "L"
+    },
+    "languages": {
+      "eng": "English",
+      "sot": "Sotho"
+    },
+    "flag": "🇱🇸",
+    "telegram_emojis": {
+      "classic_id": "5911059881988723711",
+      "stylish_id": "5292040693886247604"
+    }
+  },
+  {
+    "name": "Liberia",
+    "official_name": "Republic of Liberia",
+    "alpha_2": "LR",
+    "alpha_3": "LBR",
+    "numeric_code": "430",
+    "calling_code": "+231",
+    "capital": "Monrovia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "LRD",
+      "name": "Liberian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇱🇷",
+    "telegram_emojis": {
+      "classic_id": "5913324167272337727",
+      "stylish_id": "5291793810576137439"
+    }
+  },
+  {
+    "name": "Libya",
+    "official_name": "State of Libya",
+    "alpha_2": "LY",
+    "alpha_3": "LBY",
+    "numeric_code": "434",
+    "calling_code": "+218",
+    "capital": "Tripoli",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "LYD",
+      "name": "Libyan dinar",
+      "symbol": "ل.د"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇱🇾",
+    "telegram_emojis": {
+      "classic_id": "5911236989260140996",
+      "stylish_id": "5291858711826946840"
+    }
+  },
+  {
+    "name": "Liechtenstein",
+    "official_name": "Principality of Liechtenstein",
+    "alpha_2": "LI",
+    "alpha_3": "LIE",
+    "numeric_code": "438",
+    "calling_code": "+423",
+    "capital": "Vaduz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr."
+    },
+    "languages": {
+      "deu": "German"
+    },
+    "flag": "🇱🇮",
+    "telegram_emojis": {
+      "classic_id": "5911166650580734660",
+      "stylish_id": "5292048742654957785"
+    }
+  },
+  {
+    "name": "Lithuania",
+    "official_name": "Republic of Lithuania",
+    "alpha_2": "LT",
+    "alpha_3": "LTU",
+    "numeric_code": "440",
+    "calling_code": "+370",
+    "capital": "Vilnius",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "lit": "Lithuanian"
+    },
+    "flag": "🇱🇹",
+    "telegram_emojis": {
+      "classic_id": "5911172315642597775",
+      "stylish_id": "5294343084119708700"
+    }
+  },
+  {
+    "name": "Luxembourg",
+    "official_name": "Grand Duchy of Luxembourg",
+    "alpha_2": "LU",
+    "alpha_3": "LUX",
+    "numeric_code": "442",
+    "calling_code": "+352",
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ltz": "Luxembourgish"
+    },
+    "flag": "🇱🇺",
+    "telegram_emojis": {
+      "classic_id": "5913390842344640293",
+      "stylish_id": "5294423709245787718"
+    }
+  },
+  {
+    "name": "Macao",
+    "official_name": "Macao Special Administrative Region of the People's Republic of China",
+    "alpha_2": "MO",
+    "alpha_3": "MAC",
+    "numeric_code": "446",
+    "calling_code": "+853",
+    "capital": "Macao",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "MOP",
+      "name": "Macanese pataca",
+      "symbol": "P"
+    },
+    "languages": {
+      "por": "Portuguese",
+      "zho": "Chinese"
+    },
+    "flag": "🇲🇴",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "North Macedonia",
+    "official_name": "Republic of North Macedonia",
+    "alpha_2": "MK",
+    "alpha_3": "MKD",
+    "numeric_code": "807",
+    "calling_code": "+389",
+    "capital": "Skopje",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "MKD",
+      "name": "Macedonian denar",
+      "symbol": "ден"
+    },
+    "languages": {
+      "mkd": "Macedonian"
+    },
+    "flag": "🇲🇰",
+    "telegram_emojis": {
+      "classic_id": "5913394029210374721",
+      "stylish_id": "5294023611567332075"
+    }
+  },
+  {
+    "name": "Madagascar",
+    "official_name": "Republic of Madagascar",
+    "alpha_2": "MG",
+    "alpha_3": "MDG",
+    "numeric_code": "450",
+    "calling_code": "+261",
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "MGA",
+      "name": "Malagasy ariary",
+      "symbol": "Ar"
+    },
+    "languages": {
+      "fra": "French",
+      "mlg": "Malagasy"
+    },
+    "flag": "🇲🇬",
+    "telegram_emojis": {
+      "classic_id": "5913766918271012920",
+      "stylish_id": "5291991568050312348"
+    }
+  },
+  {
+    "name": "Malawi",
+    "official_name": "Republic of Malawi",
+    "alpha_2": "MW",
+    "alpha_3": "MWI",
+    "numeric_code": "454",
+    "calling_code": "+265",
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "MWK",
+      "name": "Malawian kwacha",
+      "symbol": "MK"
+    },
+    "languages": {
+      "eng": "English",
+      "nya": "Chewa"
+    },
+    "flag": "🇲🇼",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294241881805312589"
+    }
+  },
+  {
+    "name": "Malaysia",
+    "official_name": "Malaysia",
+    "alpha_2": "MY",
+    "alpha_3": "MYS",
+    "numeric_code": "458",
+    "calling_code": "+60",
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "MYR",
+      "name": "Malaysian ringgit",
+      "symbol": "RM"
+    },
+    "languages": {
+      "msa": "Malay"
+    },
+    "flag": "🇲🇾",
+    "telegram_emojis": {
+      "classic_id": "5913654360063087453",
+      "stylish_id": "5291858351049696702"
+    }
+  },
+  {
+    "name": "Maldives",
+    "official_name": "Republic of Maldives",
+    "alpha_2": "MV",
+    "alpha_3": "MDV",
+    "numeric_code": "462",
+    "calling_code": "+960",
+    "capital": "Malé",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "MVR",
+      "name": "Maldivian rufiyaa",
+      "symbol": ".ރ"
+    },
+    "languages": {
+      "div": "Maldivian"
+    },
+    "flag": "🇲🇻",
+    "telegram_emojis": {
+      "classic_id": "5913501399097806832",
+      "stylish_id": "5292004203844097218"
+    }
+  },
+  {
+    "name": "Mali",
+    "official_name": "Republic of Mali",
+    "alpha_2": "ML",
+    "alpha_3": "MLI",
+    "numeric_code": "466",
+    "calling_code": "+223",
+    "capital": "Bamako",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇲🇱",
+    "telegram_emojis": {
+      "classic_id": "5911305266355245916",
+      "stylish_id": "5292086972158858331"
+    }
+  },
+  {
+    "name": "Malta",
+    "official_name": "Republic of Malta",
+    "alpha_2": "MT",
+    "alpha_3": "MLT",
+    "numeric_code": "470",
+    "calling_code": "+356",
+    "capital": "Valletta",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "eng": "English",
+      "mlt": "Maltese"
+    },
+    "flag": "🇲🇹",
+    "telegram_emojis": {
+      "classic_id": "5911023714069123567",
+      "stylish_id": "5294532213004588353"
+    }
+  },
+  {
+    "name": "Marshall Islands",
+    "official_name": "Republic of the Marshall Islands",
+    "alpha_2": "MH",
+    "alpha_3": "MHL",
+    "numeric_code": "584",
+    "calling_code": "+692",
+    "capital": "Majuro",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "mah": "Marshallese"
+    },
+    "flag": "🇲🇭",
+    "telegram_emojis": {
+      "classic_id": "5913235935759175692",
+      "stylish_id": "5294180730060954484"
+    }
+  },
+  {
+    "name": "Martinique",
+    "official_name": "Martinique",
+    "alpha_2": "MQ",
+    "alpha_3": "MTQ",
+    "numeric_code": "474",
+    "calling_code": "+596",
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇲🇶",
+    "telegram_emojis": {
+      "classic_id": "5911378005921370347",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Mauritania",
+    "official_name": "Islamic Republic of Mauritania",
+    "alpha_2": "MR",
+    "alpha_3": "MRT",
+    "numeric_code": "478",
+    "calling_code": "+222",
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "MRU",
+      "name": "Mauritanian ouguiya",
+      "symbol": "UM"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇲🇷",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294429743674840973"
+    }
+  },
+  {
+    "name": "Mauritius",
+    "official_name": "Republic of Mauritius",
+    "alpha_2": "MU",
+    "alpha_3": "MUS",
+    "numeric_code": "480",
+    "calling_code": "+230",
+    "capital": "Port Louis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "MUR",
+      "name": "Mauritian rupee",
+      "symbol": "₨"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇲🇺",
+    "telegram_emojis": {
+      "classic_id": "5913291113204027321",
+      "stylish_id": "5294127824653797277"
+    }
+  },
+  {
+    "name": "Mayotte",
+    "official_name": "Department of Mayotte",
+    "alpha_2": "YT",
+    "alpha_3": "MYT",
+    "numeric_code": "175",
+    "calling_code": "+262",
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇾🇹",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Mexico",
+    "official_name": "United Mexican States",
+    "alpha_2": "MX",
+    "alpha_3": "MEX",
+    "numeric_code": "484",
+    "calling_code": "+52",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "subregion": "North America",
+    "currency": {
+      "code": "MXN",
+      "name": "Mexican peso",
+      "symbol": "$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇲🇽",
+    "telegram_emojis": {
+      "classic_id": "5913687302462246518",
+      "stylish_id": "5294535073452809778"
+    }
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "official_name": "Federated States of Micronesia",
+    "alpha_2": "FM",
+    "alpha_3": "FSM",
+    "numeric_code": "583",
+    "calling_code": "+691",
+    "capital": "Palikir",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇫🇲",
+    "telegram_emojis": {
+      "classic_id": "5911271104185373336",
+      "stylish_id": "5291838156113470124"
+    }
+  },
+  {
+    "name": "Moldova",
+    "official_name": "Republic of Moldova",
+    "alpha_2": "MD",
+    "alpha_3": "MDA",
+    "numeric_code": "498",
+    "calling_code": "+373",
+    "capital": "Chișinău",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "MDL",
+      "name": "Moldovan leu",
+      "symbol": "L"
+    },
+    "languages": {
+      "ron": "Romanian"
+    },
+    "flag": "🇲🇩",
+    "telegram_emojis": {
+      "classic_id": "5913456847402045950",
+      "stylish_id": "5294158486425325375"
+    }
+  },
+  {
+    "name": "Monaco",
+    "official_name": "Principality of Monaco",
+    "alpha_2": "MC",
+    "alpha_3": "MCO",
+    "numeric_code": "492",
+    "calling_code": "+377",
+    "capital": "Monaco",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇲🇨",
+    "telegram_emojis": {
+      "classic_id": "5911245347266500057",
+      "stylish_id": "5294378161117614233"
+    }
+  },
+  {
+    "name": "Mongolia",
+    "official_name": "Mongolia",
+    "alpha_2": "MN",
+    "alpha_3": "MNG",
+    "numeric_code": "496",
+    "calling_code": "+976",
+    "capital": "Ulaanbaatar",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "MNT",
+      "name": "Mongolian tögrög",
+      "symbol": "₮"
+    },
+    "languages": {
+      "mon": "Mongolian"
+    },
+    "flag": "🇲🇳",
+    "telegram_emojis": {
+      "classic_id": "5911041383564580038",
+      "stylish_id": "5294316532631883496"
+    }
+  },
+  {
+    "name": "Montenegro",
+    "official_name": "Montenegro",
+    "alpha_2": "ME",
+    "alpha_3": "MNE",
+    "numeric_code": "499",
+    "calling_code": "+382",
+    "capital": "Podgorica",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "cnr": "Montenegrin"
+    },
+    "flag": "🇲🇪",
+    "telegram_emojis": {
+      "classic_id": "5913239436157522151",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Montserrat",
+    "official_name": "Montserrat",
+    "alpha_2": "MS",
+    "alpha_3": "MSR",
+    "numeric_code": "500",
+    "calling_code": "+1-664",
+    "capital": "Plymouth",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇲🇸",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Morocco",
+    "official_name": "Kingdom of Morocco",
+    "alpha_2": "MA",
+    "alpha_3": "MAR",
+    "numeric_code": "504",
+    "calling_code": "+212",
+    "capital": "Rabat",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "د.م."
+    },
+    "languages": {
+      "ara": "Arabic",
+      "ber": "Berber"
+    },
+    "flag": "🇲🇦",
+    "telegram_emojis": {
+      "classic_id": "5911482111633658301",
+      "stylish_id": "5292108962391414885"
+    }
+  },
+  {
+    "name": "Mozambique",
+    "official_name": "Republic of Mozambique",
+    "alpha_2": "MZ",
+    "alpha_3": "MOZ",
+    "numeric_code": "508",
+    "calling_code": "+258",
+    "capital": "Maputo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "MZN",
+      "name": "Mozambican metical",
+      "symbol": "MT"
+    },
+    "languages": {
+      "por": "Portuguese"
+    },
+    "flag": "🇲🇿",
+    "telegram_emojis": {
+      "classic_id": "5911333419865871464",
+      "stylish_id": "5294086708931874940"
+    }
+  },
+  {
+    "name": "Myanmar",
+    "official_name": "Republic of the Union of Myanmar",
+    "alpha_2": "MM",
+    "alpha_3": "MMR",
+    "numeric_code": "104",
+    "calling_code": "+95",
+    "capital": "Naypyidaw",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "MMK",
+      "name": "Myanmar kyat",
+      "symbol": "Ks"
+    },
+    "languages": {
+      "mya": "Burmese"
+    },
+    "flag": "🇲🇲",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294254478944393569"
+    }
+  },
+  {
+    "name": "Namibia",
+    "official_name": "Republic of Namibia",
+    "alpha_2": "NA",
+    "alpha_3": "NAM",
+    "numeric_code": "516",
+    "calling_code": "+264",
+    "capital": "Windhoek",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "currency": {
+      "code": "NAD",
+      "name": "Namibian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇳🇦",
+    "telegram_emojis": {
+      "classic_id": "5911108535378252443",
+      "stylish_id": "5292021761670404922"
+    }
+  },
+  {
+    "name": "Nauru",
+    "official_name": "Republic of Nauru",
+    "alpha_2": "NR",
+    "alpha_3": "NRU",
+    "numeric_code": "520",
+    "calling_code": "+674",
+    "capital": "Yaren",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "nau": "Nauruan"
+    },
+    "flag": "🇳🇷",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294463274484521342"
+    }
+  },
+  {
+    "name": "Nepal",
+    "official_name": "Federal Democratic Republic of Nepal",
+    "alpha_2": "NP",
+    "alpha_3": "NPL",
+    "numeric_code": "524",
+    "calling_code": "+977",
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "NPR",
+      "name": "Nepalese rupee",
+      "symbol": "रू"
+    },
+    "languages": {
+      "nep": "Nepali"
+    },
+    "flag": "🇳🇵",
+    "telegram_emojis": {
+      "classic_id": "5913496520014958723",
+      "stylish_id": "5294458756178924088"
+    }
+  },
+  {
+    "name": "Netherlands",
+    "official_name": "Kingdom of the Netherlands",
+    "alpha_2": "NL",
+    "alpha_3": "NLD",
+    "numeric_code": "528",
+    "calling_code": "+31",
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "nld": "Dutch"
+    },
+    "flag": "🇳🇱",
+    "telegram_emojis": {
+      "classic_id": "5913367645226275100",
+      "stylish_id": "5291917797692042265"
+    }
+  },
+  {
+    "name": "New Caledonia",
+    "official_name": "New Caledonia",
+    "alpha_2": "NC",
+    "alpha_3": "NCL",
+    "numeric_code": "540",
+    "calling_code": "+687",
+    "capital": "Nouméa",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currency": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇳🇨",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "New Zealand",
+    "official_name": "New Zealand",
+    "alpha_2": "NZ",
+    "alpha_3": "NZL",
+    "numeric_code": "554",
+    "calling_code": "+64",
+    "capital": "Wellington",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "mri": "Māori"
+    },
+    "flag": "🇳🇿",
+    "telegram_emojis": {
+      "classic_id": "5913640044937089340",
+      "stylish_id": "5294189019347833274"
+    }
+  },
+  {
+    "name": "Nicaragua",
+    "official_name": "Republic of Nicaragua",
+    "alpha_2": "NI",
+    "alpha_3": "NIC",
+    "numeric_code": "558",
+    "calling_code": "+505",
+    "capital": "Managua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": {
+      "code": "NIO",
+      "name": "Nicaraguan córdoba",
+      "symbol": "C$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇳🇮",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294240825243358100"
+    }
+  },
+  {
+    "name": "Niger",
+    "official_name": "Republic of Niger",
+    "alpha_2": "NE",
+    "alpha_3": "NER",
+    "numeric_code": "562",
+    "calling_code": "+227",
+    "capital": "Niamey",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇳🇪",
+    "telegram_emojis": {
+      "classic_id": "5911270086278124251",
+      "stylish_id": "5291809418487290691"
+    }
+  },
+  {
+    "name": "Nigeria",
+    "official_name": "Federal Republic of Nigeria",
+    "alpha_2": "NG",
+    "alpha_3": "NGA",
+    "numeric_code": "566",
+    "calling_code": "+234",
+    "capital": "Abuja",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "NGN",
+      "name": "Nigerian naira",
+      "symbol": "₦"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇳🇬",
+    "telegram_emojis": {
+      "classic_id": "5911143844304393105",
+      "stylish_id": "5294456308047563965"
+    }
+  },
+  {
+    "name": "Niue",
+    "official_name": "Niue",
+    "alpha_2": "NU",
+    "alpha_3": "NIU",
+    "numeric_code": "570",
+    "calling_code": "+683",
+    "capital": "Alofi",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "niu": "Niuean"
+    },
+    "flag": "🇳🇺",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294471336138134209"
+    }
+  },
+  {
+    "name": "Norfolk Island",
+    "official_name": "Territory of Norfolk Island",
+    "alpha_2": "NF",
+    "alpha_3": "NFK",
+    "numeric_code": "574",
+    "calling_code": "+672",
+    "capital": "Kingston",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇳🇫",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "official_name": "Commonwealth of the Northern Mariana Islands",
+    "alpha_2": "MP",
+    "alpha_3": "MNP",
+    "numeric_code": "580",
+    "calling_code": "+1-670",
+    "capital": "Saipan",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "cal": "Carolinian",
+      "cha": "Chamorro",
+      "eng": "English"
+    },
+    "flag": "🇲🇵",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Norway",
+    "official_name": "Kingdom of Norway",
+    "alpha_2": "NO",
+    "alpha_3": "NOR",
+    "numeric_code": "578",
+    "calling_code": "+47",
+    "capital": "Oslo",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr"
+    },
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "flag": "🇳🇴",
+    "telegram_emojis": {
+      "classic_id": "5913617397574537046",
+      "stylish_id": "5291761718580502030"
+    }
+  },
+  {
+    "name": "Oman",
+    "official_name": "Sultanate of Oman",
+    "alpha_2": "OM",
+    "alpha_3": "OMN",
+    "numeric_code": "512",
+    "calling_code": "+968",
+    "capital": "Muscat",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "OMR",
+      "name": "Omani riyal",
+      "symbol": "ر.ع."
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇴🇲",
+    "telegram_emojis": {
+      "classic_id": "5913570801474343473",
+      "stylish_id": "5291813666209946812"
+    }
+  },
+  {
+    "name": "Pakistan",
+    "official_name": "Islamic Republic of Pakistan",
+    "alpha_2": "PK",
+    "alpha_3": "PAK",
+    "numeric_code": "586",
+    "calling_code": "+92",
+    "capital": "Islamabad",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "PKR",
+      "name": "Pakistani rupee",
+      "symbol": "₨"
+    },
+    "languages": {
+      "eng": "English",
+      "urd": "Urdu"
+    },
+    "flag": "🇵🇰",
+    "telegram_emojis": {
+      "classic_id": "5913705895375672082",
+      "stylish_id": "5291825606219029010"
+    }
+  },
+  {
+    "name": "Palau",
+    "official_name": "Republic of Palau",
+    "alpha_2": "PW",
+    "alpha_3": "PLW",
+    "numeric_code": "585",
+    "calling_code": "+680",
+    "capital": "Ngerulmud",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "pau": "Palauan"
+    },
+    "flag": "🇵🇼",
+    "telegram_emojis": {
+      "classic_id": "5911283903187915549",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Palestine",
+    "official_name": "State of Palestine",
+    "alpha_2": "PS",
+    "alpha_3": "PSE",
+    "numeric_code": "275",
+    "calling_code": "+970",
+    "capital": "Ramallah",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "ILS",
+      "name": "Israeli new shekel",
+      "symbol": "₪"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇵🇸",
+    "telegram_emojis": {
+      "classic_id": "5911346652660110556",
+      "stylish_id": "5294289826525238172"
+    }
+  },
+  {
+    "name": "Panama",
+    "official_name": "Republic of Panama",
+    "alpha_2": "PA",
+    "alpha_3": "PAN",
+    "numeric_code": "591",
+    "calling_code": "+507",
+    "capital": "Panama City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "currency": {
+      "code": "PAB",
+      "name": "Panamanian balboa",
+      "symbol": "B/."
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇵🇦",
+    "telegram_emojis": {
+      "classic_id": "5913428968769327174",
+      "stylish_id": "5291959935616178405"
+    }
+  },
+  {
+    "name": "Papua New Guinea",
+    "official_name": "Independent State of Papua New Guinea",
+    "alpha_2": "PG",
+    "alpha_3": "PNG",
+    "numeric_code": "598",
+    "calling_code": "+675",
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currency": {
+      "code": "PGK",
+      "name": "Papua New Guinean kina",
+      "symbol": "K"
+    },
+    "languages": {
+      "eng": "English",
+      "hmo": "Hiri Motu",
+      "tpi": "Tok Pisin"
+    },
+    "flag": "🇵🇬",
+    "telegram_emojis": {
+      "classic_id": "5911107251183030903",
+      "stylish_id": "5291917995260533077"
+    }
+  },
+  {
+    "name": "Paraguay",
+    "official_name": "Republic of Paraguay",
+    "alpha_2": "PY",
+    "alpha_3": "PRY",
+    "numeric_code": "600",
+    "calling_code": "+595",
+    "capital": "Asunción",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "PYG",
+      "name": "Paraguayan guaraní",
+      "symbol": "₲"
+    },
+    "languages": {
+      "grn": "Guaraní",
+      "spa": "Spanish"
+    },
+    "flag": "🇵🇾",
+    "telegram_emojis": {
+      "classic_id": "5911014265141072316",
+      "stylish_id": "5294525611639852679"
+    }
+  },
+  {
+    "name": "Peru",
+    "official_name": "Republic of Peru",
+    "alpha_2": "PE",
+    "alpha_3": "PER",
+    "numeric_code": "604",
+    "calling_code": "+51",
+    "capital": "Lima",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "PEN",
+      "name": "Peruvian sol",
+      "symbol": "S/."
+    },
+    "languages": {
+      "aym": "Aymara",
+      "que": "Quechua",
+      "spa": "Spanish"
+    },
+    "flag": "🇵🇪",
+    "telegram_emojis": {
+      "classic_id": "5911207993935925780",
+      "stylish_id": "5292099427564018941"
+    }
+  },
+  {
+    "name": "Philippines",
+    "official_name": "Republic of the Philippines",
+    "alpha_2": "PH",
+    "alpha_3": "PHL",
+    "numeric_code": "608",
+    "calling_code": "+63",
+    "capital": "Manila",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "PHP",
+      "name": "Philippine peso",
+      "symbol": "₱"
+    },
+    "languages": {
+      "eng": "English",
+      "fil": "Filipino"
+    },
+    "flag": "🇵🇭",
+    "telegram_emojis": {
+      "classic_id": "5911268638874145162",
+      "stylish_id": "5291798075478661634"
+    }
+  },
+  {
+    "name": "Pitcairn",
+    "official_name": "Pitcairn Group of Islands",
+    "alpha_2": "PN",
+    "alpha_3": "PCN",
+    "numeric_code": "612",
+    "calling_code": "+64",
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇵🇳",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Poland",
+    "official_name": "Republic of Poland",
+    "alpha_2": "PL",
+    "alpha_3": "POL",
+    "numeric_code": "616",
+    "calling_code": "+48",
+    "capital": "Warsaw",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "PLN",
+      "name": "Polish złoty",
+      "symbol": "zł"
+    },
+    "languages": {
+      "pol": "Polish"
+    },
+    "flag": "🇵🇱",
+    "telegram_emojis": {
+      "classic_id": "5913550391789752571",
+      "stylish_id": "5292190970496963836"
+    }
+  },
+  {
+    "name": "Portugal",
+    "official_name": "Portuguese Republic",
+    "alpha_2": "PT",
+    "alpha_3": "PRT",
+    "numeric_code": "620",
+    "calling_code": "+351",
+    "capital": "Lisbon",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "por": "Portuguese"
+    },
+    "flag": "🇵🇹",
+    "telegram_emojis": {
+      "classic_id": "5911023653939581472",
+      "stylish_id": "5294436555492973610"
+    }
+  },
+  {
+    "name": "Puerto Rico",
+    "official_name": "Commonwealth of Puerto Rico",
+    "alpha_2": "PR",
+    "alpha_3": "PRI",
+    "numeric_code": "630",
+    "calling_code": "+1-787",
+    "capital": "San Juan",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "spa": "Spanish"
+    },
+    "flag": "🇵🇷",
+    "telegram_emojis": {
+      "classic_id": "5911504350974317480",
+      "stylish_id": "5292121516580820347"
+    }
+  },
+  {
+    "name": "Qatar",
+    "official_name": "State of Qatar",
+    "alpha_2": "QA",
+    "alpha_3": "QAT",
+    "numeric_code": "634",
+    "calling_code": "+974",
+    "capital": "Doha",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "QAR",
+      "name": "Qatari riyal",
+      "symbol": "ر.ق"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇶🇦",
+    "telegram_emojis": {
+      "classic_id": "5911260864983339619",
+      "stylish_id": "5292166360334357676"
+    }
+  },
+  {
+    "name": "Réunion",
+    "official_name": "Réunion Island",
+    "alpha_2": "RE",
+    "alpha_3": "REU",
+    "numeric_code": "638",
+    "calling_code": "+262",
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇷🇪",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Romania",
+    "official_name": "Romania",
+    "alpha_2": "RO",
+    "alpha_3": "ROU",
+    "numeric_code": "642",
+    "calling_code": "+40",
+    "capital": "Bucharest",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "RON",
+      "name": "Romanian leu",
+      "symbol": "lei"
+    },
+    "languages": {
+      "ron": "Romanian"
+    },
+    "flag": "🇷🇴",
+    "telegram_emojis": {
+      "classic_id": "5913460373570195273",
+      "stylish_id": "5294107724206856227"
+    }
+  },
+  {
+    "name": "Russian Federation",
+    "official_name": "Russian Federation",
+    "alpha_2": "RU",
+    "alpha_3": "RUS",
+    "numeric_code": "643",
+    "calling_code": "+7",
+    "capital": "Moscow",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "RUB",
+      "name": "Russian ruble",
+      "symbol": "₽"
+    },
+    "languages": {
+      "rus": "Russian"
+    },
+    "flag": "🇷🇺",
+    "telegram_emojis": {
+      "classic_id": "5913274246867456342",
+      "stylish_id": "5294335323113807278"
+    }
+  },
+  {
+    "name": "Rwanda",
+    "official_name": "Republic of Rwanda",
+    "alpha_2": "RW",
+    "alpha_3": "RWA",
+    "numeric_code": "646",
+    "calling_code": "+250",
+    "capital": "Kigali",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "RWF",
+      "name": "Rwandan franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "eng": "English",
+      "fra": "French",
+      "kin": "Kinyarwanda"
+    },
+    "flag": "🇷🇼",
+    "telegram_emojis": {
+      "classic_id": "5911455229433352234",
+      "stylish_id": "5294191265615729158"
+    }
+  },
+  {
+    "name": "Saint Barthélemy",
+    "official_name": "Collectivity of Saint Barthélemy",
+    "alpha_2": "BL",
+    "alpha_3": "BLM",
+    "numeric_code": "652",
+    "calling_code": "+590",
+    "capital": "Gustavia",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇧🇱",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "official_name": "Saint Helena, Ascension and Tristan da Cunha",
+    "alpha_2": "SH",
+    "alpha_3": "SHN",
+    "numeric_code": "654",
+    "calling_code": "+290",
+    "capital": "Jamestown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "SHP",
+      "name": "Saint Helena pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇸🇭",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "official_name": "Federation of Saint Christopher and Nevis",
+    "alpha_2": "KN",
+    "alpha_3": "KNA",
+    "numeric_code": "659",
+    "calling_code": "+1-869",
+    "capital": "Basseterre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇰🇳",
+    "telegram_emojis": {
+      "classic_id": "5913691898077253637",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Saint Lucia",
+    "official_name": "Saint Lucia",
+    "alpha_2": "LC",
+    "alpha_3": "LCA",
+    "numeric_code": "662",
+    "calling_code": "+1-758",
+    "capital": "Castries",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇱🇨",
+    "telegram_emojis": {
+      "classic_id": "5911243659344351824",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Saint Martin (French part)",
+    "official_name": "Collectivity of Saint Martin",
+    "alpha_2": "MF",
+    "alpha_3": "MAF",
+    "numeric_code": "663",
+    "calling_code": "+590",
+    "capital": "Marigot",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇲🇫",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "official_name": "Territorial Collectivity of Saint Pierre and Miquelon",
+    "alpha_2": "PM",
+    "alpha_3": "SPM",
+    "numeric_code": "666",
+    "calling_code": "+508",
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇵🇲",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "official_name": "Saint Vincent and the Grenadines",
+    "alpha_2": "VC",
+    "alpha_3": "VCT",
+    "numeric_code": "670",
+    "calling_code": "+1-784",
+    "capital": "Kingstown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "XCD",
+      "name": "East Caribbean dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇻🇨",
+    "telegram_emojis": {
+      "classic_id": "5911318941531116255",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Samoa",
+    "official_name": "Independent State of Samoa",
+    "alpha_2": "WS",
+    "alpha_3": "WSM",
+    "numeric_code": "882",
+    "calling_code": "+685",
+    "capital": "Apia",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "WST",
+      "name": "Samoan tālā",
+      "symbol": "T"
+    },
+    "languages": {
+      "eng": "English",
+      "smo": "Samoan"
+    },
+    "flag": "🇼🇸",
+    "telegram_emojis": {
+      "classic_id": "5913325971158602854",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "San Marino",
+    "official_name": "Republic of San Marino",
+    "alpha_2": "SM",
+    "alpha_3": "SMR",
+    "numeric_code": "674",
+    "calling_code": "+378",
+    "capital": "City of San Marino",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "ita": "Italian"
+    },
+    "flag": "🇸🇲",
+    "telegram_emojis": {
+      "classic_id": "5913587968458625465",
+      "stylish_id": "5292147350809106831"
+    }
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "official_name": "Democratic Republic of São Tomé and Príncipe",
+    "alpha_2": "ST",
+    "alpha_3": "STP",
+    "numeric_code": "678",
+    "calling_code": "+239",
+    "capital": "São Tomé",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "currency": {
+      "code": "STN",
+      "name": "São Tomé and Príncipe dobra",
+      "symbol": "Db"
+    },
+    "languages": {
+      "por": "Portuguese"
+    },
+    "flag": "🇸🇹",
+    "telegram_emojis": {
+      "classic_id": "5913574331937462345",
+      "stylish_id": "5292183188016222701"
+    }
+  },
+  {
+    "name": "Saudi Arabia",
+    "official_name": "Kingdom of Saudi Arabia",
+    "alpha_2": "SA",
+    "alpha_3": "SAU",
+    "numeric_code": "682",
+    "calling_code": "+966",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "SAR",
+      "name": "Saudi riyal",
+      "symbol": "ر.س"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇸🇦",
+    "telegram_emojis": {
+      "classic_id": "5911300687920108242",
+      "stylish_id": "5294163983983463099"
+    }
+  },
+  {
+    "name": "Scotland",
+    "official_name": "Scotland (Constituent Country)",
+    "alpha_2": "GB-SCT",
+    "alpha_3": "SCT",
+    "numeric_code": null,
+    "calling_code": "+44",
+    "capital": "Edinburgh",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English",
+      "gla": "Gaelic",
+      "sco": "Scots"
+    },
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "telegram_emojis": {
+      "classic_id": "5911460091336331851",
+      "stylish_id": "5294434665707368018"
+    }
+  },
+  {
+    "name": "Senegal",
+    "official_name": "Republic of Senegal",
+    "alpha_2": "SN",
+    "alpha_3": "SEN",
+    "numeric_code": "686",
+    "calling_code": "+221",
+    "capital": "Dakar",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇸🇳",
+    "telegram_emojis": {
+      "classic_id": "5910995302860461643",
+      "stylish_id": "5292087023698466689"
+    }
+  },
+  {
+    "name": "Serbia",
+    "official_name": "Republic of Serbia",
+    "alpha_2": "RS",
+    "alpha_3": "SRB",
+    "numeric_code": "688",
+    "calling_code": "+381",
+    "capital": "Belgrade",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "RSD",
+      "name": "Serbian dinar",
+      "symbol": "дин."
+    },
+    "languages": {
+      "srp": "Serbian"
+    },
+    "flag": "🇷🇸",
+    "telegram_emojis": {
+      "classic_id": "5913592598433369871",
+      "stylish_id": "5294458584380230360"
+    }
+  },
+  {
+    "name": "Seychelles",
+    "official_name": "Republic of Seychelles",
+    "alpha_2": "SC",
+    "alpha_3": "SYC",
+    "numeric_code": "690",
+    "calling_code": "+248",
+    "capital": "Victoria",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "SCR",
+      "name": "Seychellois rupee",
+      "symbol": "₨"
+    },
+    "languages": {
+      "crs": "Seychellois Creole",
+      "eng": "English",
+      "fra": "French"
+    },
+    "flag": "🇸🇨",
+    "telegram_emojis": {
+      "classic_id": "5911185183364616913",
+      "stylish_id": "5291891186074672309"
+    }
+  },
+  {
+    "name": "Sierra Leone",
+    "official_name": "Republic of Sierra Leone",
+    "alpha_2": "SL",
+    "alpha_3": "SLE",
+    "numeric_code": "694",
+    "calling_code": "+232",
+    "capital": "Freetown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "SLL",
+      "name": "Sierra Leonean leone",
+      "symbol": "Le"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇸🇱",
+    "telegram_emojis": {
+      "classic_id": "5911210450657218661",
+      "stylish_id": "5294494314213167952"
+    }
+  },
+  {
+    "name": "Singapore",
+    "official_name": "Republic of Singapore",
+    "alpha_2": "SG",
+    "alpha_3": "SGP",
+    "numeric_code": "702",
+    "calling_code": "+65",
+    "capital": "Singapore",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "SGD",
+      "name": "Singapore dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "msa": "Malay",
+      "tam": "Tamil",
+      "zho": "Chinese"
+    },
+    "flag": "🇸🇬",
+    "telegram_emojis": {
+      "classic_id": "5911531460808051849",
+      "stylish_id": "5294451304410663668"
+    }
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "official_name": "Sint Maarten",
+    "alpha_2": "SX",
+    "alpha_3": "SXM",
+    "numeric_code": "534",
+    "calling_code": "+1-721",
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "ANG",
+      "name": "Netherlands Antillean guilder",
+      "symbol": "ƒ"
+    },
+    "languages": {
+      "eng": "English",
+      "nld": "Dutch"
+    },
+    "flag": "🇸🇽",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Slovakia",
+    "official_name": "Slovak Republic",
+    "alpha_2": "SK",
+    "alpha_3": "SVK",
+    "numeric_code": "703",
+    "calling_code": "+421",
+    "capital": "Bratislava",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "slk": "Slovak"
+    },
+    "flag": "🇸🇰",
+    "telegram_emojis": {
+      "classic_id": "5913751666842145020",
+      "stylish_id": "5294538440707166931"
+    }
+  },
+  {
+    "name": "Slovenia",
+    "official_name": "Republic of Slovenia",
+    "alpha_2": "SI",
+    "alpha_3": "SVN",
+    "numeric_code": "705",
+    "calling_code": "+386",
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "slv": "Slovenian"
+    },
+    "flag": "🇸🇮",
+    "telegram_emojis": {
+      "classic_id": "5913431983836368644",
+      "stylish_id": "5294279359689938006"
+    }
+  },
+  {
+    "name": "Solomon Islands",
+    "official_name": "Solomon Islands",
+    "alpha_2": "SB",
+    "alpha_3": "SLB",
+    "numeric_code": "090",
+    "calling_code": "+677",
+    "capital": "Honiara",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currency": {
+      "code": "SBD",
+      "name": "Solomon Islands dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇸🇧",
+    "telegram_emojis": {
+      "classic_id": "5911482712929080608",
+      "stylish_id": "5294283890880433237"
+    }
+  },
+  {
+    "name": "Somalia",
+    "official_name": "Federal Republic of Somalia",
+    "alpha_2": "SO",
+    "alpha_3": "SOM",
+    "numeric_code": "706",
+    "calling_code": "+252",
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "SOS",
+      "name": "Somali shilling",
+      "symbol": "Sh"
+    },
+    "languages": {
+      "ara": "Arabic",
+      "som": "Somali"
+    },
+    "flag": "🇸🇴",
+    "telegram_emojis": {
+      "classic_id": "5911397852965244436",
+      "stylish_id": "5294058817414255960"
+    }
+  },
+  {
+    "name": "South Africa",
+    "official_name": "Republic of South Africa",
+    "alpha_2": "ZA",
+    "alpha_3": "ZAF",
+    "numeric_code": "710",
+    "calling_code": "+27",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "currency": {
+      "code": "ZAR",
+      "name": "South African rand",
+      "symbol": "R"
+    },
+    "languages": {
+      "afr": "Afrikaans",
+      "eng": "English"
+    },
+    "flag": "🇿🇦",
+    "telegram_emojis": {
+      "classic_id": "5911203119148044594",
+      "stylish_id": "5294325281480266304"
+    }
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "official_name": "South Georgia and the South Sandwich Islands",
+    "alpha_2": "GS",
+    "alpha_3": "SGS",
+    "numeric_code": "239",
+    "calling_code": "+500",
+    "capital": "King Edward Point",
+    "region": "Antarctic",
+    "subregion": null,
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇬🇸",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "South Sudan",
+    "official_name": "Republic of South Sudan",
+    "alpha_2": "SS",
+    "alpha_3": "SSD",
+    "numeric_code": "728",
+    "calling_code": "+211",
+    "capital": "Juba",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "SSP",
+      "name": "South Sudanese pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇸🇸",
+    "telegram_emojis": {
+      "classic_id": "5911406262511211744",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Spain",
+    "official_name": "Kingdom of Spain",
+    "alpha_2": "ES",
+    "alpha_3": "ESP",
+    "numeric_code": "724",
+    "calling_code": "+34",
+    "capital": "Madrid",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇪🇸",
+    "telegram_emojis": {
+      "classic_id": "5911193287967904547",
+      "stylish_id": "5294513087515216901"
+    }
+  },
+  {
+    "name": "Sri Lanka",
+    "official_name": "Democratic Socialist Republic of Sri Lanka",
+    "alpha_2": "LK",
+    "alpha_3": "LKA",
+    "numeric_code": "144",
+    "calling_code": "+94",
+    "capital": "Sri Jayawardenepura Kotte",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "currency": {
+      "code": "LKR",
+      "name": "Sri Lankan rupee",
+      "symbol": "Rs"
+    },
+    "languages": {
+      "sin": "Sinhala",
+      "tam": "Tamil"
+    },
+    "flag": "🇱🇰",
+    "telegram_emojis": {
+      "classic_id": "5911293163137406640",
+      "stylish_id": "5292102670264328257"
+    }
+  },
+  {
+    "name": "Sudan",
+    "official_name": "Republic of the Sudan",
+    "alpha_2": "SD",
+    "alpha_3": "SDN",
+    "numeric_code": "729",
+    "calling_code": "+249",
+    "capital": "Khartoum",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "SDG",
+      "name": "Sudanese pound",
+      "symbol": "ج.س."
+    },
+    "languages": {
+      "ara": "Arabic",
+      "eng": "English"
+    },
+    "flag": "🇸🇩",
+    "telegram_emojis": {
+      "classic_id": "5911387497799094470",
+      "stylish_id": "5294177148058228060"
+    }
+  },
+  {
+    "name": "Suriname",
+    "official_name": "Republic of Suriname",
+    "alpha_2": "SR",
+    "alpha_3": "SUR",
+    "numeric_code": "740",
+    "calling_code": "+597",
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "SRD",
+      "name": "Surinamese dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "nld": "Dutch"
+    },
+    "flag": "🇸🇷",
+    "telegram_emojis": {
+      "classic_id": "5913275539652611719",
+      "stylish_id": "5294396668131692138"
+    }
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "official_name": "Svalbard and Jan Mayen",
+    "alpha_2": "SJ",
+    "alpha_3": "SJM",
+    "numeric_code": "744",
+    "calling_code": "+47",
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "NOK",
+      "name": "Norwegian krone",
+      "symbol": "kr"
+    },
+    "languages": {
+      "nor": "Norwegian"
+    },
+    "flag": "🇸🇯",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Sweden",
+    "official_name": "Kingdom of Sweden",
+    "alpha_2": "SE",
+    "alpha_3": "SWE",
+    "numeric_code": "752",
+    "calling_code": "+46",
+    "capital": "Stockholm",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "SEK",
+      "name": "Swedish krona",
+      "symbol": "kr"
+    },
+    "languages": {
+      "swe": "Swedish"
+    },
+    "flag": "🇸🇪",
+    "telegram_emojis": {
+      "classic_id": "5911156510162949403",
+      "stylish_id": "5291737091238026321"
+    }
+  },
+  {
+    "name": "Switzerland",
+    "official_name": "Swiss Confederation",
+    "alpha_2": "CH",
+    "alpha_3": "CHE",
+    "numeric_code": "756",
+    "calling_code": "+41",
+    "capital": "Bern",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "currency": {
+      "code": "CHF",
+      "name": "Swiss franc",
+      "symbol": "Fr."
+    },
+    "languages": {
+      "deu": "German",
+      "fra": "French",
+      "ita": "Italian",
+      "roh": "Romansh"
+    },
+    "flag": "🇨🇭",
+    "telegram_emojis": {
+      "classic_id": "5913271227505448072",
+      "stylish_id": "5291791748991835084"
+    }
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "official_name": "Syrian Arab Republic",
+    "alpha_2": "SY",
+    "alpha_3": "SYR",
+    "numeric_code": "760",
+    "calling_code": "+963",
+    "capital": "Damascus",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "SYP",
+      "name": "Syrian pound",
+      "symbol": "ل.س"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇸🇾",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294013428199869487"
+    }
+  },
+  {
+    "name": "Taiwan",
+    "official_name": "Republic of China (Taiwan)",
+    "alpha_2": "TW",
+    "alpha_3": "TWN",
+    "numeric_code": "158",
+    "calling_code": "+886",
+    "capital": "Taipei",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currency": {
+      "code": "TWD",
+      "name": "New Taiwan dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "zho": "Chinese"
+    },
+    "flag": "🇹🇼",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294095745543069603"
+    }
+  },
+  {
+    "name": "Tajikistan",
+    "official_name": "Republic of Tajikistan",
+    "alpha_2": "TJ",
+    "alpha_3": "TJK",
+    "numeric_code": "762",
+    "calling_code": "+992",
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "currency": {
+      "code": "TJS",
+      "name": "Tajikistani somoni",
+      "symbol": "ЅМ"
+    },
+    "languages": {
+      "tgk": "Tajik"
+    },
+    "flag": "🇹🇯",
+    "telegram_emojis": {
+      "classic_id": "5911287639809463107",
+      "stylish_id": "5294120269806328883"
+    }
+  },
+  {
+    "name": "Tanzania",
+    "official_name": "United Republic of Tanzania",
+    "alpha_2": "TZ",
+    "alpha_3": "TZA",
+    "numeric_code": "834",
+    "calling_code": "+255",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "TZS",
+      "name": "Tanzanian shilling",
+      "symbol": "Sh"
+    },
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "flag": "🇹🇿",
+    "telegram_emojis": {
+      "classic_id": "5911418949844603556",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Thailand",
+    "official_name": "Kingdom of Thailand",
+    "alpha_2": "TH",
+    "alpha_3": "THA",
+    "numeric_code": "764",
+    "calling_code": "+66",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "THB",
+      "name": "Thai baht",
+      "symbol": "฿"
+    },
+    "languages": {
+      "tha": "Thai"
+    },
+    "flag": "🇹🇭",
+    "telegram_emojis": {
+      "classic_id": "5913617968805187987",
+      "stylish_id": "5293994384314882755"
+    }
+  },
+  {
+    "name": "Timor-Leste",
+    "official_name": "Democratic Republic of Timor-Leste",
+    "alpha_2": "TL",
+    "alpha_3": "TLS",
+    "numeric_code": "626",
+    "calling_code": "+670",
+    "capital": "Dili",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "por": "Portuguese",
+      "tet": "Tetum"
+    },
+    "flag": "🇹🇱",
+    "telegram_emojis": {
+      "classic_id": "5911141915864076479",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Togo",
+    "official_name": "Togolese Republic",
+    "alpha_2": "TG",
+    "alpha_3": "TGO",
+    "numeric_code": "768",
+    "calling_code": "+228",
+    "capital": "Lomé",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "currency": {
+      "code": "XOF",
+      "name": "West African CFA franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇹🇬",
+    "telegram_emojis": {
+      "classic_id": "5913423260757790970",
+      "stylish_id": "5294097669688415562"
+    }
+  },
+  {
+    "name": "Tokelau",
+    "official_name": "Tokelau",
+    "alpha_2": "TK",
+    "alpha_3": "TKL",
+    "numeric_code": "772",
+    "calling_code": "+690",
+    "capital": "Fakaofo",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "NZD",
+      "name": "New Zealand dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "tkl": "Tokelauan"
+    },
+    "flag": "🇹🇰",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Tonga",
+    "official_name": "Kingdom of Tonga",
+    "alpha_2": "TO",
+    "alpha_3": "TON",
+    "numeric_code": "776",
+    "calling_code": "+676",
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "TOP",
+      "name": "Tongan paʻanga",
+      "symbol": "T$"
+    },
+    "languages": {
+      "eng": "English",
+      "ton": "Tongan"
+    },
+    "flag": "🇹🇴",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294283689016973348"
+    }
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "official_name": "Republic of Trinidad and Tobago",
+    "alpha_2": "TT",
+    "alpha_3": "TTO",
+    "numeric_code": "780",
+    "calling_code": "+1-868",
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "TTD",
+      "name": "Trinidad and Tobago dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇹🇹",
+    "telegram_emojis": {
+      "classic_id": "5911228635548750294",
+      "stylish_id": "5294362935458548705"
+    }
+  },
+  {
+    "name": "Tunisia",
+    "official_name": "Republic of Tunisia",
+    "alpha_2": "TN",
+    "alpha_3": "TUN",
+    "numeric_code": "788",
+    "calling_code": "+216",
+    "capital": "Tunis",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "TND",
+      "name": "Tunisian dinar",
+      "symbol": "د.ت"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇹🇳",
+    "telegram_emojis": {
+      "classic_id": "5911332947419468671",
+      "stylish_id": "5294484680601521871"
+    }
+  },
+  {
+    "name": "Turkey",
+    "official_name": "Republic of Türkiye",
+    "alpha_2": "TR",
+    "alpha_3": "TUR",
+    "numeric_code": "792",
+    "calling_code": "+90",
+    "capital": "Ankara",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "TRY",
+      "name": "Turkish lira",
+      "symbol": "₺"
+    },
+    "languages": {
+      "tur": "Turkish"
+    },
+    "flag": "🇹🇷",
+    "telegram_emojis": {
+      "classic_id": "5910995113881901195",
+      "stylish_id": "5293993400767367408"
+    }
+  },
+  {
+    "name": "Turkmenistan",
+    "official_name": "Turkmenistan",
+    "alpha_2": "TM",
+    "alpha_3": "TKM",
+    "numeric_code": "795",
+    "calling_code": "+993",
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "currency": {
+      "code": "TMT",
+      "name": "Turkmenistan manat",
+      "symbol": "m"
+    },
+    "languages": {
+      "tuk": "Turkmen"
+    },
+    "flag": "🇹🇲",
+    "telegram_emojis": {
+      "classic_id": "5913315521503170180",
+      "stylish_id": "5294098958178603764"
+    }
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "official_name": "Turks and Caicos Islands",
+    "alpha_2": "TC",
+    "alpha_3": "TCA",
+    "numeric_code": "796",
+    "calling_code": "+1-649",
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇹🇨",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294320866253884749"
+    }
+  },
+  {
+    "name": "Tuvalu",
+    "official_name": "Tuvalu",
+    "alpha_2": "TV",
+    "alpha_3": "TUV",
+    "numeric_code": "798",
+    "calling_code": "+688",
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "AUD",
+      "name": "Australian dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English",
+      "tvl": "Tuvaluan"
+    },
+    "flag": "🇹🇻",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Uganda",
+    "official_name": "Republic of Uganda",
+    "alpha_2": "UG",
+    "alpha_3": "UGA",
+    "numeric_code": "800",
+    "calling_code": "+256",
+    "capital": "Kampala",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "UGX",
+      "name": "Ugandan shilling",
+      "symbol": "Sh"
+    },
+    "languages": {
+      "eng": "English",
+      "swa": "Swahili"
+    },
+    "flag": "🇺🇬",
+    "telegram_emojis": {
+      "classic_id": "5913488939397681980",
+      "stylish_id": "5294192317882716626"
+    }
+  },
+  {
+    "name": "Ukraine",
+    "official_name": "Ukraine",
+    "alpha_2": "UA",
+    "alpha_3": "UKR",
+    "numeric_code": "804",
+    "calling_code": "+380",
+    "capital": "Kyiv",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currency": {
+      "code": "UAH",
+      "name": "Ukrainian hryvnia",
+      "symbol": "₴"
+    },
+    "languages": {
+      "ukr": "Ukrainian"
+    },
+    "flag": "🇺🇦",
+    "telegram_emojis": {
+      "classic_id": "5911406692007941050",
+      "stylish_id": "5294263837678131580"
+    }
+  },
+  {
+    "name": "United Arab Emirates",
+    "official_name": "United Arab Emirates",
+    "alpha_2": "AE",
+    "alpha_3": "ARE",
+    "numeric_code": "784",
+    "calling_code": "+971",
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "AED",
+      "name": "United Arab Emirates dirham",
+      "symbol": "د.إ"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇦🇪",
+    "telegram_emojis": {
+      "classic_id": "5913726554168365343",
+      "stylish_id": "5294314831824835370"
+    }
+  },
+  {
+    "name": "United Kingdom",
+    "official_name": "United Kingdom of Great Britain and Northern Ireland",
+    "alpha_2": "GB",
+    "alpha_3": "GBR",
+    "numeric_code": "826",
+    "calling_code": "+44",
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇬🇧",
+    "telegram_emojis": {
+      "classic_id": "5913443365499703513",
+      "stylish_id": "5293993521026453119"
+    }
+  },
+  {
+    "name": "United States of America",
+    "official_name": "United States of America",
+    "alpha_2": "US",
+    "alpha_3": "USA",
+    "numeric_code": "840",
+    "calling_code": "+1",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇺🇸",
+    "telegram_emojis": {
+      "classic_id": "5913463998522592692",
+      "stylish_id": "5294244076533600593"
+    }
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "official_name": "United States Minor Outlying Islands",
+    "alpha_2": "UM",
+    "alpha_3": "UMI",
+    "numeric_code": "581",
+    "calling_code": "+1",
+    "capital": "Washington, D.C.",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇺🇲",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Uruguay",
+    "official_name": "Oriental Republic of Uruguay",
+    "alpha_2": "UY",
+    "alpha_3": "URY",
+    "numeric_code": "858",
+    "calling_code": "+598",
+    "capital": "Montevideo",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "UYU",
+      "name": "Uruguayan peso",
+      "symbol": "$"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇺🇾",
+    "telegram_emojis": {
+      "classic_id": "5913623088406204470",
+      "stylish_id": "5291928449210932974"
+    }
+  },
+  {
+    "name": "Uzbekistan",
+    "official_name": "Republic of Uzbekistan",
+    "alpha_2": "UZ",
+    "alpha_3": "UZB",
+    "numeric_code": "860",
+    "calling_code": "+998",
+    "capital": "Tashkent",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "currency": {
+      "code": "UZS",
+      "name": "Uzbekistan som",
+      "symbol": "so'm"
+    },
+    "languages": {
+      "uzb": "Uzbek"
+    },
+    "flag": "🇺🇿",
+    "telegram_emojis": {
+      "classic_id": "5911051846104912282",
+      "stylish_id": "5294217645304864345"
+    }
+  },
+  {
+    "name": "Vanuatu",
+    "official_name": "Republic of Vanuatu",
+    "alpha_2": "VU",
+    "alpha_3": "VUT",
+    "numeric_code": "548",
+    "calling_code": "+678",
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currency": {
+      "code": "VUV",
+      "name": "Vanuatu vatu",
+      "symbol": "VT"
+    },
+    "languages": {
+      "bis": "Bislama",
+      "eng": "English",
+      "fra": "French"
+    },
+    "flag": "🇻🇺",
+    "telegram_emojis": {
+      "classic_id": "5913511535220625585",
+      "stylish_id": "5294448585696368047"
+    }
+  },
+  {
+    "name": "Vatican City State",
+    "official_name": "Vatican City State",
+    "alpha_2": "VA",
+    "alpha_3": "VAT",
+    "numeric_code": "336",
+    "calling_code": "+39-06",
+    "capital": "Vatican City",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "currency": {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€"
+    },
+    "languages": {
+      "ita": "Italian",
+      "lat": "Latin"
+    },
+    "flag": "🇻🇦",
+    "telegram_emojis": {
+      "classic_id": "5911211932420938860",
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Venezuela",
+    "official_name": "Bolivarian Republic of Venezuela",
+    "alpha_2": "VE",
+    "alpha_3": "VEN",
+    "numeric_code": "862",
+    "calling_code": "+58",
+    "capital": "Caracas",
+    "region": "Americas",
+    "subregion": "South America",
+    "currency": {
+      "code": "VES",
+      "name": "Venezuelan bolívar soberano",
+      "symbol": "Bs.S"
+    },
+    "languages": {
+      "spa": "Spanish"
+    },
+    "flag": "🇻🇪",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": "5294476442854247878"
+    }
+  },
+  {
+    "name": "Vietnam",
+    "official_name": "Socialist Republic of Vietnam",
+    "alpha_2": "VN",
+    "alpha_3": "VNM",
+    "numeric_code": "704",
+    "calling_code": "+84",
+    "capital": "Hanoi",
+    "region": "Asia",
+    "subregion": "South-eastern Asia",
+    "currency": {
+      "code": "VND",
+      "name": "Vietnamese đồng",
+      "symbol": "₫"
+    },
+    "languages": {
+      "vie": "Vietnamese"
+    },
+    "flag": "🇻🇳",
+    "telegram_emojis": {
+      "classic_id": "5913428887164949581",
+      "stylish_id": "5294235963340379688"
+    }
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "official_name": "Virgin Islands",
+    "alpha_2": "VG",
+    "alpha_3": "VGB",
+    "numeric_code": "092",
+    "calling_code": "+1-284",
+    "capital": "Road Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇻🇬",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "official_name": "Virgin Islands of the United States",
+    "alpha_2": "VI",
+    "alpha_3": "VIR",
+    "numeric_code": "850",
+    "calling_code": "+1-340",
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "currency": {
+      "code": "USD",
+      "name": "United States dollar",
+      "symbol": "$"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇻🇮",
+    "telegram_emojis": {
+      "classic_id": "5911297153162023306",
+      "stylish_id": "5294228039125718124"
+    }
+  },
+  {
+    "name": "Wallis and Futuna",
+    "official_name": "Territory of the Wallis and Futuna Islands",
+    "alpha_2": "WF",
+    "alpha_3": "WLF",
+    "numeric_code": "876",
+    "calling_code": "+681",
+    "capital": "Mata-Utu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "currency": {
+      "code": "XPF",
+      "name": "CFP franc",
+      "symbol": "Fr"
+    },
+    "languages": {
+      "fra": "French"
+    },
+    "flag": "🇼🇫",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Western Sahara",
+    "official_name": "Sahrawi Arab Democratic Republic",
+    "alpha_2": "EH",
+    "alpha_3": "ESH",
+    "numeric_code": "732",
+    "calling_code": "+212",
+    "capital": "Laayoune",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "currency": {
+      "code": "MAD",
+      "name": "Moroccan dirham",
+      "symbol": "د.م."
+    },
+    "languages": {
+      "ara": "Arabic",
+      "spa": "Spanish"
+    },
+    "flag": "🇪🇭",
+    "telegram_emojis": {
+      "classic_id": null,
+      "stylish_id": null
+    }
+  },
+  {
+    "name": "Wales",
+    "official_name": "Wales (Constituent Country)",
+    "alpha_2": "GB-WLS",
+    "alpha_3": "WLS",
+    "numeric_code": null,
+    "calling_code": "+44",
+    "capital": "Cardiff",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "currency": {
+      "code": "GBP",
+      "name": "British pound",
+      "symbol": "£"
+    },
+    "languages": {
+      "cym": "Welsh",
+      "eng": "English"
+    },
+    "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+    "telegram_emojis": {
+      "classic_id": "5911297801702084799",
+      "stylish_id": "5294139949346476093"
+    }
+  },
+  {
+    "name": "Yemen",
+    "official_name": "Republic of Yemen",
+    "alpha_2": "YE",
+    "alpha_3": "YEM",
+    "numeric_code": "887",
+    "calling_code": "+967",
+    "capital": "Sana'a",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currency": {
+      "code": "YER",
+      "name": "Yemeni rial",
+      "symbol": "﷼"
+    },
+    "languages": {
+      "ara": "Arabic"
+    },
+    "flag": "🇾🇪",
+    "telegram_emojis": {
+      "classic_id": "5913346492512341993",
+      "stylish_id": "5294058972033076492"
+    }
+  },
+  {
+    "name": "Zambia",
+    "official_name": "Republic of Zambia",
+    "alpha_2": "ZM",
+    "alpha_3": "ZMB",
+    "numeric_code": "894",
+    "calling_code": "+260",
+    "capital": "Lusaka",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "ZMW",
+      "name": "Zambian kwacha",
+      "symbol": "ZK"
+    },
+    "languages": {
+      "eng": "English"
+    },
+    "flag": "🇿🇲",
+    "telegram_emojis": {
+      "classic_id": "5913564754160389778",
+      "stylish_id": "5294100109229838880"
+    }
+  },
+  {
+    "name": "Zimbabwe",
+    "official_name": "Republic of Zimbabwe",
+    "alpha_2": "ZW",
+    "alpha_3": "ZWE",
+    "numeric_code": "716",
+    "calling_code": "+263",
+    "capital": "Harare",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "currency": {
+      "code": "ZWG",
+      "name": "Zimbabwe Gold",
+      "symbol": "ZiG"
+    },
+    "languages": {
+      "eng": "English",
+      "sna": "Shona",
+      "nde": "Northern Ndebele"
+    },
+    "flag": "🇿🇼",
+    "telegram_emojis": {
+      "classic_id": "5911092502265336396",
+      "stylish_id": "5294422158762592930"
+    }
+  }
+]
